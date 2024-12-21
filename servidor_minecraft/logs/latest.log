@@ -1,0 +1,801 @@
+[21Dec2024 21:40:16.405] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[21Dec2024 21:40:16.412] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[21Dec2024 21:40:17.285] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[21Dec2024 21:40:17.339] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSX/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[21Dec2024 21:40:17.581] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[21Dec2024 21:40:17.583] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Dec2024 21:40:17.585] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Dec2024 21:40:17.587] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Dec2024 21:40:17.860] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[21Dec2024 21:40:19.677] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[21Dec2024 21:40:19.735] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[21Dec2024 21:40:19.901] [main/INFO] [Puzzles Lib/]: Loading 34 mods:
+	- alexscaves 1.1.4
+	- born_in_chaos_v1 1.0.0
+	- caelus 3.2.0+1.20.1
+	- cataclysm 1.99.5
+	- citadel 2.5.4
+	- crackerslib 1.20.1-0.3.2.1
+	- curios 5.9.0+1.20.1
+	- dungeons_arise 2.1.58-1.20.x
+	- editenchanting 1.1.2
+	- enchantinginfuser 8.0.2
+	- enhancedai 2.4.5
+	- forge 47.3.7
+	- geckolib 4.4.4
+	- iceandfire 2.1.13-1.20.1-beta-4
+	- insanelib 1.13.4
+	- irons_spellbooks 1.20.1-3.1.6
+	- jade 11.9.4+forge
+	- jei 15.3.0.4
+	- journeymap 5.10.0
+	- lionfishapi 1.9
+	- minecraft 1.20.1
+	- mixinextras 0.3.6
+	- multiverse 1.20.1-2.3.4
+	- playeranimator 1.0.2-rc1+1.20
+	- puzzlesaccessapi 8.0.7
+	- puzzleslib 8.1.17
+	- securitycraft 1.9.9
+	- sophisticatedbackpacks 3.20.5.1044
+	- sophisticatedcore 0.6.22.611
+	- tacz 1.0.3
+	- titanio 1.0.0
+	- tombstone 8.6.7
+	- vanillaplustools 1.20-1.0
+	- witherstormmod 4.1
+[21Dec2024 21:40:21.294] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[21Dec2024 21:40:27.171] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on witherstormmod.mixins.json:MixinSwellGoal::handler$zfh000$canUseInvoke exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[21Dec2024 21:40:29.246] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.TagsFeature
+[21Dec2024 21:40:29.256] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.FixFeature
+[21Dec2024 21:40:29.270] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.BaseFeature
+[21Dec2024 21:40:29.271] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.AEC3DFeature
+[21Dec2024 21:40:30.306] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[21Dec2024 21:40:30.378] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.WitchFleeTarget
+[21Dec2024 21:40:30.389] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.throwing.WitchPotionThrowing
+[21Dec2024 21:40:30.391] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.ThirstyWitches
+[21Dec2024 21:40:30.392] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.darkart.DarkArtWitch
+[21Dec2024 21:40:30.395] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.warden.Warden
+[21Dec2024 21:40:30.396] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.villager.VillagerAttacking
+[21Dec2024 21:40:30.412] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.spider.webber.ThrowingWeb
+[21Dec2024 21:40:30.415] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.spider.Misc
+[21Dec2024 21:40:30.416] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.slime.Slimes
+[21Dec2024 21:40:30.417] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.WitherSkeletons
+[21Dec2024 21:40:30.421] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.SkeletonFleeTarget
+[21Dec2024 21:40:30.422] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[21Dec2024 21:40:30.423] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.shoot.SkeletonShoot
+[21Dec2024 21:40:30.424] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[21Dec2024 21:40:30.431] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.shulker.ShulkerBullets
+[21Dec2024 21:40:30.431] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.shulker.shulkerattack.ShulkerAttack
+[21Dec2024 21:40:30.432] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
+[21Dec2024 21:40:30.433] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.shulker.ShulkerArmor
+[21Dec2024 21:40:30.434] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.pets.Wolves
+[21Dec2024 21:40:30.435] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.pets.snowgolem.SnowGolems
+[21Dec2024 21:40:30.437] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.pets.IronGolems
+[21Dec2024 21:40:30.439] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.WardenInteractions
+[21Dec2024 21:40:30.453] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.targeting.Targeting
+[21Dec2024 21:40:30.464] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.Spawning
+[21Dec2024 21:40:30.470] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.riding.Riding
+[21Dec2024 21:40:30.478] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.pearler.PearlerMobs
+[21Dec2024 21:40:30.480] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.OpenDoors
+[21Dec2024 21:40:30.482] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.movement.Movement
+[21Dec2024 21:40:30.484] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.miner.MinerMobs
+[21Dec2024 21:40:30.488] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.MeleeAttacking
+[21Dec2024 21:40:30.490] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.leap.Leap
+[21Dec2024 21:40:30.493] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.ItemDisruption
+[21Dec2024 21:40:30.497] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.flee.Flee
+[21Dec2024 21:40:30.501] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.fisher.FisherMobs
+[21Dec2024 21:40:30.506] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.breakanger.BreakAnger
+[21Dec2024 21:40:30.509] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.BitingMobs
+[21Dec2024 21:40:30.510] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.avoidexplosions.AvoidExplosions
+[21Dec2024 21:40:30.512] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.avoidexplosion.AvoidExplosions
+[21Dec2024 21:40:30.514] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.anticheese.AntiCheese
+[21Dec2024 21:40:30.516] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.illager.shoot.PillagerShoot
+[21Dec2024 21:40:30.519] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.illager.RavagerFeature
+[21Dec2024 21:40:30.520] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.illager.PillagerFleeTarget
+[21Dec2024 21:40:30.522] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.ghast.GhastShoot
+[21Dec2024 21:40:30.525] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.enderman.getoverhere.GetOverHere
+[21Dec2024 21:40:30.532] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.drowned.DrownedSwimming
+[21Dec2024 21:40:30.535] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.creeper.CreeperSwell
+[21Dec2024 21:40:30.544] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.bugs.silverfish.SilverfishFeature
+[21Dec2024 21:40:30.546] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.blaze.BlazeAttack
+[21Dec2024 21:40:30.548] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.animal.NotTemptedAnimals
+[21Dec2024 21:40:30.550] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.animal.AnimalsGroupFlee
+[21Dec2024 21:40:30.554] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.animal.AnimalScaredAttack
+[21Dec2024 21:40:33.481] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/MSX/servidor_minecraft/config/witherstormmod-common.toml is not correct. Correcting
+[21Dec2024 21:40:33.482] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Dec2024 21:40:33.482] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.blockClustersDropItems was corrected from null to its default, false. 
+[21Dec2024 21:40:33.482] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.shouldPickUpVehicles was corrected from null to its default, true. 
+[21Dec2024 21:40:33.482] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.phantomsOrbitWitherStorm was corrected from null to its default, true. 
+[21Dec2024 21:40:33.482] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.playerCannotDismountTentacles was corrected from null to its default, true. 
+[21Dec2024 21:40:33.483] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.injectCustomAiBehavior was corrected from null to its default, true. 
+[21Dec2024 21:40:33.483] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.injectAiMobBlacklist was corrected from null to its default, [witherstormmod:example]. 
+[21Dec2024 21:40:33.483] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.autoSpawnWitherStorm was corrected from null to its default, false. 
+[21Dec2024 21:40:33.483] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.autoSpawnTime was corrected from null to its default, 1. 
+[21Dec2024 21:40:34.117] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[21Dec2024 21:40:34.383] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.0 Target: 5.10.3
+[21Dec2024 21:40:34.384] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[21Dec2024 21:40:34.623] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.9 Target: 1.9.12
+[21Dec2024 21:40:34.625] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Starting version check at https://raw.githubusercontent.com/nonamecrackers2/cwsm-update-info/main/update_checker.json
+[21Dec2024 21:40:34.635] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Found status: OUTDATED Current: 4.1 Target: 4.2.1
+[21Dec2024 21:40:34.636] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[21Dec2024 21:40:34.660] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.7 Target: 8.8.6
+[21Dec2024 21:40:34.660] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [multiverse] Starting version check at https://raw.githubusercontent.com/DavidQF555/Multiverse/update/update.json
+[21Dec2024 21:40:34.673] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [multiverse] Found status: OUTDATED Current: 1.20.1-2.3.4 Target: 1.20.1-3.0.3
+[21Dec2024 21:40:34.673] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[21Dec2024 21:40:34.684] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.17 Target: 8.1.25
+[21Dec2024 21:40:34.685] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[21Dec2024 21:40:34.698] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[21Dec2024 21:40:34.698] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21Dec2024 21:40:34.788] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[21Dec2024 21:40:34.788] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[21Dec2024 21:40:34.799] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: OUTDATED Current: 8.0.2 Target: 8.0.3
+[21Dec2024 21:40:38.440] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[21Dec2024 21:40:38.440] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[21Dec2024 21:40:38.440] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[21Dec2024 21:40:38.440] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[21Dec2024 21:40:38.440] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[21Dec2024 21:40:38.440] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[21Dec2024 21:40:38.441] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[21Dec2024 21:40:38.441] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
+[21Dec2024 21:40:38.442] [main/INFO] [journeymap/]: Initializing Packet Registries
+[21Dec2024 21:40:38.502] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[21Dec2024 21:40:38.563] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[21Dec2024 21:40:38.580] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[21Dec2024 21:40:38.584] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[21Dec2024 21:40:38.585] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
+[21Dec2024 21:40:38.587] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[21Dec2024 21:40:38.674] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.674] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.675] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.675] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.675] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.676] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.676] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.676] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.677] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.677] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.677] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.678] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.678] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.678] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.679] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.679] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.679] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.680] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.680] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.680] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.680] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.681] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.681] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.682] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.682] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.682] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.682] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.683] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.683] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.683] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.683] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.684] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.684] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.684] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.684] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.685] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.685] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.685] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.685] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.686] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.686] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.686] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.686] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.687] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.687] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.687] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.687] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.688] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.688] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.688] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:38.688] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.095] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21Dec2024 21:40:41.799] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.800] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.800] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.801] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.801] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.801] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.801] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.802] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.802] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.802] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.802] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.802] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.803] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.803] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.803] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.803] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.803] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.804] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.804] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.804] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.804] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.804] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.805] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.805] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.805] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.805] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.805] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.805] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.806] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.806] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.806] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.806] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.806] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.806] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.807] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.807] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.807] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.807] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.807] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.808] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.808] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.808] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.808] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.808] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.809] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.809] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.809] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.809] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.809] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.810] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.810] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.881] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:super_tnt Expected: 2056 Got: 2223
+[21Dec2024 21:40:41.882] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:formidibomb Expected: 2057 Got: 2224
+[21Dec2024 21:40:41.882] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:super_beacon Expected: 2058 Got: 2225
+[21Dec2024 21:40:41.882] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:super_support_beacon Expected: 2059 Got: 2226
+[21Dec2024 21:40:41.882] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:firework_bundle Expected: 2060 Got: 2227
+[21Dec2024 21:40:41.882] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_zombie_sitting Expected: 2061 Got: 2228
+[21Dec2024 21:40:41.883] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_zombie_wall Expected: 2062 Got: 2229
+[21Dec2024 21:40:41.883] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_zombie_lying Expected: 2063 Got: 2230
+[21Dec2024 21:40:41.883] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_bone_pile Expected: 2064 Got: 2231
+[21Dec2024 21:40:41.883] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_skeleton_wall Expected: 2065 Got: 2232
+[21Dec2024 21:40:41.883] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_skull_ceiling Expected: 2066 Got: 2233
+[21Dec2024 21:40:41.883] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_flesh_veins Expected: 2067 Got: 2234
+[21Dec2024 21:40:41.883] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_flesh_block Expected: 2068 Got: 2235
+[21Dec2024 21:40:41.884] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:infected_flesh_block Expected: 2069 Got: 2236
+[21Dec2024 21:40:41.884] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:hardened_flesh_block Expected: 2070 Got: 2237
+[21Dec2024 21:40:41.884] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:withered_phlegm_block Expected: 2071 Got: 2238
+[21Dec2024 21:40:41.884] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_stone Expected: 2072 Got: 2239
+[21Dec2024 21:40:41.884] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_stone_stairs Expected: 2073 Got: 2240
+[21Dec2024 21:40:41.884] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_stone_slab Expected: 2074 Got: 2241
+[21Dec2024 21:40:41.885] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_stone_button Expected: 2075 Got: 2242
+[21Dec2024 21:40:41.885] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_stone_pressure_plate Expected: 2076 Got: 2243
+[21Dec2024 21:40:41.885] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_cobblestone Expected: 2077 Got: 2244
+[21Dec2024 21:40:41.885] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_cobblestone_stairs Expected: 2078 Got: 2245
+[21Dec2024 21:40:41.885] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_cobblestone_slab Expected: 2079 Got: 2246
+[21Dec2024 21:40:41.885] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_cobblestone_wall Expected: 2080 Got: 2247
+[21Dec2024 21:40:41.885] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_sand Expected: 2081 Got: 2248
+[21Dec2024 21:40:41.885] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_dirt Expected: 2082 Got: 2249
+[21Dec2024 21:40:41.886] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_sandstone Expected: 2083 Got: 2250
+[21Dec2024 21:40:41.886] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_sandstone_slab Expected: 2084 Got: 2251
+[21Dec2024 21:40:41.886] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_sandstone_stairs Expected: 2085 Got: 2252
+[21Dec2024 21:40:41.886] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_sandstone_wall Expected: 2086 Got: 2253
+[21Dec2024 21:40:41.886] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_cut_sandstone Expected: 2087 Got: 2254
+[21Dec2024 21:40:41.886] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_cut_sandstone_slab Expected: 2088 Got: 2255
+[21Dec2024 21:40:41.887] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_chiseled_sandstone Expected: 2089 Got: 2256
+[21Dec2024 21:40:41.887] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_smooth_sandstone Expected: 2090 Got: 2257
+[21Dec2024 21:40:41.887] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_smooth_sandstone_slab Expected: 2091 Got: 2258
+[21Dec2024 21:40:41.887] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_smooth_sandstone_stairs Expected: 2092 Got: 2259
+[21Dec2024 21:40:41.887] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_smooth_sandstone_wall Expected: 2093 Got: 2260
+[21Dec2024 21:40:41.887] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_glass Expected: 2094 Got: 2261
+[21Dec2024 21:40:41.888] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_glass_pane Expected: 2095 Got: 2262
+[21Dec2024 21:40:41.888] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_planks Expected: 2096 Got: 2263
+[21Dec2024 21:40:41.888] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_torch Expected: 2097 Got: 2264
+[21Dec2024 21:40:41.889] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_wall_torch Expected: 2098 Got: 2265
+[21Dec2024 21:40:41.889] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_sign Expected: 2099 Got: 2266
+[21Dec2024 21:40:41.889] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_wall_sign Expected: 2100 Got: 2267
+[21Dec2024 21:40:41.890] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_log Expected: 2101 Got: 2268
+[21Dec2024 21:40:41.890] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_wood Expected: 2102 Got: 2269
+[21Dec2024 21:40:41.890] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_leaves Expected: 2103 Got: 2270
+[21Dec2024 21:40:41.891] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_door Expected: 2104 Got: 2271
+[21Dec2024 21:40:41.891] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_trapdoor Expected: 2105 Got: 2272
+[21Dec2024 21:40:41.892] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_button Expected: 2106 Got: 2273
+[21Dec2024 21:40:41.892] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_pressure_plate Expected: 2107 Got: 2274
+[21Dec2024 21:40:41.893] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_stairs Expected: 2108 Got: 2275
+[21Dec2024 21:40:41.893] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_slab Expected: 2109 Got: 2276
+[21Dec2024 21:40:41.893] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_fence Expected: 2110 Got: 2277
+[21Dec2024 21:40:41.893] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_fence_gate Expected: 2111 Got: 2278
+[21Dec2024 21:40:41.894] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_mushroom Expected: 2112 Got: 2279
+[21Dec2024 21:40:41.894] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:potted_tainted_mushroom Expected: 2113 Got: 2280
+[21Dec2024 21:40:41.894] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_pumpkin Expected: 2114 Got: 2281
+[21Dec2024 21:40:41.894] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_carved_pumpkin Expected: 2115 Got: 2282
+[21Dec2024 21:40:41.895] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_jack_o_lantern Expected: 2116 Got: 2283
+[21Dec2024 21:40:41.895] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_dust Expected: 2117 Got: 2284
+[21Dec2024 21:40:41.895] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: witherstormmod:tainted_dust_block Expected: 2118 Got: 2285
+[21Dec2024 21:40:41.897] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:withered_bone Expected: 2886 Got: 3604
+[21Dec2024 21:40:41.897] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:withered_flesh Expected: 2887 Got: 3605
+[21Dec2024 21:40:41.897] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_dust Expected: 2888 Got: 3606
+[21Dec2024 21:40:41.897] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:withered_spider_eye Expected: 2889 Got: 3607
+[21Dec2024 21:40:41.898] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:golden_apple_stew Expected: 2890 Got: 3608
+[21Dec2024 21:40:41.898] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:amulet Expected: 2891 Got: 3609
+[21Dec2024 21:40:41.898] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:command_block_book Expected: 2892 Got: 3610
+[21Dec2024 21:40:41.898] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:withered_nether_star Expected: 2893 Got: 3611
+[21Dec2024 21:40:41.898] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:sickened_creeper_spawn_egg Expected: 2894 Got: 3612
+[21Dec2024 21:40:41.899] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:sickened_skeleton_spawn_egg Expected: 2895 Got: 3613
+[21Dec2024 21:40:41.899] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:sickened_spider_spawn_egg Expected: 2896 Got: 3614
+[21Dec2024 21:40:41.899] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:sickened_villager_spawn_egg Expected: 2897 Got: 3615
+[21Dec2024 21:40:41.899] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:sickened_zombie_spawn_egg Expected: 2898 Got: 3616
+[21Dec2024 21:40:41.899] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:sickened_phantom_spawn_egg Expected: 2899 Got: 3617
+[21Dec2024 21:40:41.899] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:sickened_chicken_spawn_egg Expected: 2900 Got: 3618
+[21Dec2024 21:40:41.900] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:sickened_parrot_spawn_egg Expected: 2901 Got: 3619
+[21Dec2024 21:40:41.900] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:sickened_wolf_spawn_egg Expected: 2902 Got: 3620
+[21Dec2024 21:40:41.900] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:sickened_cat_spawn_egg Expected: 2903 Got: 3621
+[21Dec2024 21:40:41.900] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:sickened_cow_spawn_egg Expected: 2904 Got: 3622
+[21Dec2024 21:40:41.900] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:sickened_pig_spawn_egg Expected: 2905 Got: 3623
+[21Dec2024 21:40:41.900] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:sickened_mushroom_cow_spawn_egg Expected: 2906 Got: 3624
+[21Dec2024 21:40:41.901] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:sickened_bee_spawn_egg Expected: 2907 Got: 3625
+[21Dec2024 21:40:41.901] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:sickened_pillager_spawn_egg Expected: 2908 Got: 3626
+[21Dec2024 21:40:41.901] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:sickened_vindicator_spawn_egg Expected: 2909 Got: 3627
+[21Dec2024 21:40:41.901] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:sickened_iron_golem_spawn_egg Expected: 2910 Got: 3628
+[21Dec2024 21:40:41.901] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tentacle_spawn_egg Expected: 2911 Got: 3629
+[21Dec2024 21:40:41.901] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:withered_symbiont_spawn_egg Expected: 2912 Got: 3630
+[21Dec2024 21:40:41.902] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:command_block_sword Expected: 2913 Got: 3631
+[21Dec2024 21:40:41.902] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:command_block_pickaxe Expected: 2914 Got: 3632
+[21Dec2024 21:40:41.902] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:command_block_axe Expected: 2915 Got: 3633
+[21Dec2024 21:40:41.902] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:command_block_shovel Expected: 2916 Got: 3634
+[21Dec2024 21:40:41.902] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:command_block_hoe Expected: 2917 Got: 3635
+[21Dec2024 21:40:41.902] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:wooden_command_block_sword Expected: 2918 Got: 3636
+[21Dec2024 21:40:41.902] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:wooden_command_block_pickaxe Expected: 2919 Got: 3637
+[21Dec2024 21:40:41.903] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:wooden_command_block_axe Expected: 2920 Got: 3638
+[21Dec2024 21:40:41.903] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:wooden_command_block_shovel Expected: 2921 Got: 3639
+[21Dec2024 21:40:41.903] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:wooden_command_block_hoe Expected: 2922 Got: 3640
+[21Dec2024 21:40:41.903] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:stone_command_block_sword Expected: 2923 Got: 3641
+[21Dec2024 21:40:41.903] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:stone_command_block_pickaxe Expected: 2924 Got: 3642
+[21Dec2024 21:40:41.903] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:stone_command_block_axe Expected: 2925 Got: 3643
+[21Dec2024 21:40:41.904] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:stone_command_block_shovel Expected: 2926 Got: 3644
+[21Dec2024 21:40:41.904] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:stone_command_block_hoe Expected: 2927 Got: 3645
+[21Dec2024 21:40:41.904] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:iron_command_block_sword Expected: 2928 Got: 3646
+[21Dec2024 21:40:41.904] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:iron_command_block_pickaxe Expected: 2929 Got: 3647
+[21Dec2024 21:40:41.904] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:iron_command_block_axe Expected: 2930 Got: 3648
+[21Dec2024 21:40:41.905] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:iron_command_block_shovel Expected: 2931 Got: 3649
+[21Dec2024 21:40:41.905] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:iron_command_block_hoe Expected: 2932 Got: 3650
+[21Dec2024 21:40:41.905] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:gold_command_block_sword Expected: 2933 Got: 3651
+[21Dec2024 21:40:41.905] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:gold_command_block_pickaxe Expected: 2934 Got: 3652
+[21Dec2024 21:40:41.905] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:gold_command_block_axe Expected: 2935 Got: 3653
+[21Dec2024 21:40:41.906] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:gold_command_block_shovel Expected: 2936 Got: 3654
+[21Dec2024 21:40:41.906] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:gold_command_block_hoe Expected: 2937 Got: 3655
+[21Dec2024 21:40:41.906] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:eye_of_the_storm Expected: 2938 Got: 3656
+[21Dec2024 21:40:41.906] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:formidi_blade Expected: 2939 Got: 3657
+[21Dec2024 21:40:41.906] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:super_tnt Expected: 2940 Got: 3658
+[21Dec2024 21:40:41.906] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:formidibomb Expected: 2941 Got: 3659
+[21Dec2024 21:40:41.907] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:super_beacon Expected: 2942 Got: 3660
+[21Dec2024 21:40:41.907] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:super_support_beacon Expected: 2943 Got: 3661
+[21Dec2024 21:40:41.907] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:firework_bundle Expected: 2944 Got: 3662
+[21Dec2024 21:40:41.907] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:phasometer Expected: 2945 Got: 3663
+[21Dec2024 21:40:41.907] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_zombie_sitting Expected: 2946 Got: 3664
+[21Dec2024 21:40:41.907] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_zombie_wall Expected: 2947 Got: 3665
+[21Dec2024 21:40:41.907] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_zombie_lying Expected: 2948 Got: 3666
+[21Dec2024 21:40:41.908] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_bone_pile Expected: 2949 Got: 3667
+[21Dec2024 21:40:41.908] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_skeleton_wall Expected: 2950 Got: 3668
+[21Dec2024 21:40:41.908] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_skull_ceiling Expected: 2951 Got: 3669
+[21Dec2024 21:40:41.908] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_flesh_veins Expected: 2952 Got: 3670
+[21Dec2024 21:40:41.908] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_flesh_block Expected: 2953 Got: 3671
+[21Dec2024 21:40:41.908] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:infected_flesh_block Expected: 2954 Got: 3672
+[21Dec2024 21:40:41.909] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:hardened_flesh_block Expected: 2955 Got: 3673
+[21Dec2024 21:40:41.909] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:withered_phlegm_block Expected: 2956 Got: 3674
+[21Dec2024 21:40:41.909] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_stone Expected: 2957 Got: 3675
+[21Dec2024 21:40:41.909] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_stone_stairs Expected: 2958 Got: 3676
+[21Dec2024 21:40:41.909] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_stone_slab Expected: 2959 Got: 3677
+[21Dec2024 21:40:41.909] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_stone_button Expected: 2960 Got: 3678
+[21Dec2024 21:40:41.910] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_stone_pressure_plate Expected: 2961 Got: 3679
+[21Dec2024 21:40:41.910] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_cobblestone Expected: 2962 Got: 3680
+[21Dec2024 21:40:41.910] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_cobblestone_stairs Expected: 2963 Got: 3681
+[21Dec2024 21:40:41.910] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_cobblestone_slab Expected: 2964 Got: 3682
+[21Dec2024 21:40:41.910] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_cobblestone_wall Expected: 2965 Got: 3683
+[21Dec2024 21:40:41.910] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_dirt Expected: 2966 Got: 3684
+[21Dec2024 21:40:41.911] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_sand Expected: 2967 Got: 3685
+[21Dec2024 21:40:41.911] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_sandstone Expected: 2968 Got: 3686
+[21Dec2024 21:40:41.911] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_sandstone_slab Expected: 2969 Got: 3687
+[21Dec2024 21:40:41.911] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_sandstone_stairs Expected: 2970 Got: 3688
+[21Dec2024 21:40:41.911] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_sandstone_wall Expected: 2971 Got: 3689
+[21Dec2024 21:40:41.911] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_cut_sandstone Expected: 2972 Got: 3690
+[21Dec2024 21:40:41.912] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_cut_sandstone_slab Expected: 2973 Got: 3691
+[21Dec2024 21:40:41.912] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_chiseled_sandstone Expected: 2974 Got: 3692
+[21Dec2024 21:40:41.912] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_smooth_sandstone Expected: 2975 Got: 3693
+[21Dec2024 21:40:41.912] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_smooth_sandstone_stairs Expected: 2976 Got: 3694
+[21Dec2024 21:40:41.912] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_smooth_sandstone_slab Expected: 2977 Got: 3695
+[21Dec2024 21:40:41.912] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_smooth_sandstone_wall Expected: 2978 Got: 3696
+[21Dec2024 21:40:41.913] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_glass Expected: 2979 Got: 3697
+[21Dec2024 21:40:41.913] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_glass_pane Expected: 2980 Got: 3698
+[21Dec2024 21:40:41.913] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_planks Expected: 2981 Got: 3699
+[21Dec2024 21:40:41.913] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_log Expected: 2982 Got: 3700
+[21Dec2024 21:40:41.913] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_wood Expected: 2983 Got: 3701
+[21Dec2024 21:40:41.913] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_leaves Expected: 2984 Got: 3702
+[21Dec2024 21:40:41.913] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_door Expected: 2985 Got: 3703
+[21Dec2024 21:40:41.914] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_trapdoor Expected: 2986 Got: 3704
+[21Dec2024 21:40:41.914] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_button Expected: 2987 Got: 3705
+[21Dec2024 21:40:41.914] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_pressure_plate Expected: 2988 Got: 3706
+[21Dec2024 21:40:41.914] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_stairs Expected: 2989 Got: 3707
+[21Dec2024 21:40:41.914] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_slab Expected: 2990 Got: 3708
+[21Dec2024 21:40:41.914] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_fence Expected: 2991 Got: 3709
+[21Dec2024 21:40:41.915] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_fence_gate Expected: 2992 Got: 3710
+[21Dec2024 21:40:41.915] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_mushroom Expected: 2993 Got: 3711
+[21Dec2024 21:40:41.915] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_torch Expected: 2994 Got: 3712
+[21Dec2024 21:40:41.915] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_sign Expected: 2995 Got: 3713
+[21Dec2024 21:40:41.915] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_pumpkin Expected: 2996 Got: 3714
+[21Dec2024 21:40:41.915] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_carved_pumpkin Expected: 2997 Got: 3715
+[21Dec2024 21:40:41.916] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_jack_o_lantern Expected: 2998 Got: 3716
+[21Dec2024 21:40:41.916] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: witherstormmod:tainted_dust_block Expected: 2999 Got: 3717
+[21Dec2024 21:40:41.916] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: witherstormmod:wither_sickness Expected: 106 Got: 125
+[21Dec2024 21:40:41.917] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:wither_storm_roar Expected: 2350 Got: 2357
+[21Dec2024 21:40:41.917] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:wither_storm_evolves Expected: 2351 Got: 2358
+[21Dec2024 21:40:41.918] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:wither_storm_close_loop Expected: 2352 Got: 2359
+[21Dec2024 21:40:41.918] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:wither_storm_distant_loop Expected: 2353 Got: 2360
+[21Dec2024 21:40:41.918] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:wither_storm_far_loop Expected: 2354 Got: 2361
+[21Dec2024 21:40:41.918] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:wither_storm_ambient Expected: 2355 Got: 2362
+[21Dec2024 21:40:41.918] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:wither_storm_splits Expected: 2356 Got: 2363
+[21Dec2024 21:40:41.919] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:wither_storm_reactivates Expected: 2357 Got: 2364
+[21Dec2024 21:40:41.919] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:wither_storm_boss_theme Expected: 2358 Got: 2365
+[21Dec2024 21:40:41.919] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:wither_storm_death Expected: 2359 Got: 2366
+[21Dec2024 21:40:41.919] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:wither_storm_hurt Expected: 2360 Got: 2367
+[21Dec2024 21:40:41.919] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:wither_storm_bite Expected: 2361 Got: 2368
+[21Dec2024 21:40:41.920] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:wither_storm_tractor_beam Expected: 2362 Got: 2369
+[21Dec2024 21:40:41.920] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:wither_storm_loop Expected: 2363 Got: 2370
+[21Dec2024 21:40:41.920] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:wither_storm_shoot Expected: 2364 Got: 2371
+[21Dec2024 21:40:41.920] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:wither_storm_thump Expected: 2365 Got: 2372
+[21Dec2024 21:40:41.920] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:wither_storm_tremble Expected: 2366 Got: 2373
+[21Dec2024 21:40:41.920] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:super_tnt_fuse Expected: 2367 Got: 2374
+[21Dec2024 21:40:41.921] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:formidibomb_explosion Expected: 2368 Got: 2375
+[21Dec2024 21:40:41.921] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:tremble Expected: 2369 Got: 2376
+[21Dec2024 21:40:41.921] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:formidibomb_pulse_loop Expected: 2370 Got: 2377
+[21Dec2024 21:40:41.921] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:command_block_pulse_loop Expected: 2371 Got: 2378
+[21Dec2024 21:40:41.921] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:rib_bone_crack Expected: 2372 Got: 2379
+[21Dec2024 21:40:41.922] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:command_block_activates Expected: 2373 Got: 2380
+[21Dec2024 21:40:41.922] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:wither_storm_reviving_theme Expected: 2374 Got: 2381
+[21Dec2024 21:40:41.922] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:withered_symbiont_cast_spell Expected: 2375 Got: 2382
+[21Dec2024 21:40:41.922] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:withered_symbiont_summon Expected: 2376 Got: 2383
+[21Dec2024 21:40:41.922] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:withered_symbiont_prepare_spell Expected: 2377 Got: 2384
+[21Dec2024 21:40:41.923] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:withered_symbiont_death Expected: 2378 Got: 2385
+[21Dec2024 21:40:41.923] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:withered_symbiont_hurt Expected: 2379 Got: 2386
+[21Dec2024 21:40:41.923] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:withered_symbiont_ambient Expected: 2380 Got: 2387
+[21Dec2024 21:40:41.923] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:withered_symbiont_step Expected: 2381 Got: 2388
+[21Dec2024 21:40:41.923] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:withered_symbiont_pull Expected: 2382 Got: 2389
+[21Dec2024 21:40:41.924] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:withered_symbiont_launch_mob Expected: 2383 Got: 2390
+[21Dec2024 21:40:41.924] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:withered_symbiont_power_down Expected: 2384 Got: 2391
+[21Dec2024 21:40:41.924] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:withered_symbiont_heart_beat Expected: 2385 Got: 2392
+[21Dec2024 21:40:41.924] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:withered_symbiont_theme Expected: 2386 Got: 2393
+[21Dec2024 21:40:41.924] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:withered_symbiont_intense_theme Expected: 2387 Got: 2394
+[21Dec2024 21:40:41.925] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:command_block_summon Expected: 2388 Got: 2395
+[21Dec2024 21:40:41.925] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:withered_symbiont_spawn Expected: 2389 Got: 2396
+[21Dec2024 21:40:41.925] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:command_block_hit Expected: 2390 Got: 2397
+[21Dec2024 21:40:41.925] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:bowels_loop Expected: 2391 Got: 2398
+[21Dec2024 21:40:41.925] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:bowels_mood Expected: 2392 Got: 2399
+[21Dec2024 21:40:41.925] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:bowels_transport Expected: 2393 Got: 2400
+[21Dec2024 21:40:41.926] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:bowels_tremble Expected: 2394 Got: 2401
+[21Dec2024 21:40:41.926] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:whoosh Expected: 2395 Got: 2402
+[21Dec2024 21:40:41.926] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:loud_tremble Expected: 2396 Got: 2403
+[21Dec2024 21:40:41.926] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:bowels_loud_hurt Expected: 2397 Got: 2404
+[21Dec2024 21:40:41.926] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:command_block_damage Expected: 2398 Got: 2405
+[21Dec2024 21:40:41.926] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:wither_storm_final_boss_theme Expected: 2399 Got: 2406
+[21Dec2024 21:40:41.927] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:command_block_power_down Expected: 2400 Got: 2407
+[21Dec2024 21:40:41.927] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:withered_symbiont_normal_death Expected: 2401 Got: 2408
+[21Dec2024 21:40:41.927] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:command_block_death Expected: 2402 Got: 2409
+[21Dec2024 21:40:41.927] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:formidibomb_explosion_quiet Expected: 2403 Got: 2410
+[21Dec2024 21:40:41.927] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:wither_storm_tractor_beam_activate Expected: 2404 Got: 2411
+[21Dec2024 21:40:41.927] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:amulet_bind Expected: 2405 Got: 2412
+[21Dec2024 21:40:41.928] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:amulet_unbind Expected: 2406 Got: 2413
+[21Dec2024 21:40:41.928] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:amulet_swaps Expected: 2407 Got: 2414
+[21Dec2024 21:40:41.928] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:block_cluster_shake Expected: 2408 Got: 2415
+[21Dec2024 21:40:41.928] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:withered_beacon_activate Expected: 2409 Got: 2416
+[21Dec2024 21:40:41.928] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:withered_beacon_deactivate Expected: 2410 Got: 2417
+[21Dec2024 21:40:41.929] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:withered_beacon_ambient Expected: 2411 Got: 2418
+[21Dec2024 21:40:41.929] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:withered_beacon_power_up Expected: 2412 Got: 2419
+[21Dec2024 21:40:41.929] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:command_block_build Expected: 2413 Got: 2420
+[21Dec2024 21:40:41.929] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:wither_storm_formidibomb_theme Expected: 2414 Got: 2421
+[21Dec2024 21:40:41.929] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:wither_storm_bowels_exposed_theme Expected: 2415 Got: 2422
+[21Dec2024 21:40:41.930] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:earth_rumble Expected: 2416 Got: 2423
+[21Dec2024 21:40:41.930] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:cave_wind Expected: 2417 Got: 2424
+[21Dec2024 21:40:41.930] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:tentacle_spike_stab Expected: 2418 Got: 2425
+[21Dec2024 21:40:41.930] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:formidi_blade_charging Expected: 2419 Got: 2426
+[21Dec2024 21:40:41.930] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:formidi_blade_decharge Expected: 2420 Got: 2427
+[21Dec2024 21:40:41.931] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:command_block_cracks Expected: 2421 Got: 2428
+[21Dec2024 21:40:41.931] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:command_block_destruct Expected: 2422 Got: 2429
+[21Dec2024 21:40:41.931] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:withered_phlegm_block_open Expected: 2423 Got: 2430
+[21Dec2024 21:40:41.931] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:withered_phlegm_block_close Expected: 2424 Got: 2431
+[21Dec2024 21:40:41.931] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:mob_infected Expected: 2425 Got: 2432
+[21Dec2024 21:40:41.931] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: witherstormmod:mob_cured Expected: 2426 Got: 2433
+[21Dec2024 21:40:41.932] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:potion: Object did not get ID it asked for. Name: witherstormmod:wither Expected: 58 Got: 65
+[21Dec2024 21:40:41.932] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:potion: Object did not get ID it asked for. Name: witherstormmod:long_wither Expected: 59 Got: 66
+[21Dec2024 21:40:41.932] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:potion: Object did not get ID it asked for. Name: witherstormmod:strong_wither Expected: 60 Got: 67
+[21Dec2024 21:40:41.933] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:wither_storm Expected: 417 Got: 485
+[21Dec2024 21:40:41.933] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:block_cluster Expected: 418 Got: 486
+[21Dec2024 21:40:41.933] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:wither_storm_segment Expected: 419 Got: 487
+[21Dec2024 21:40:41.933] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:flaming_wither_skull Expected: 420 Got: 488
+[21Dec2024 21:40:41.933] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:blue_flaming_wither_skull Expected: 421 Got: 489
+[21Dec2024 21:40:41.934] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:sickened_zombie Expected: 422 Got: 490
+[21Dec2024 21:40:41.934] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:sickened_skeleton Expected: 423 Got: 491
+[21Dec2024 21:40:41.934] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:sickened_spider Expected: 424 Got: 492
+[21Dec2024 21:40:41.934] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:sickened_creeper Expected: 425 Got: 493
+[21Dec2024 21:40:41.934] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:super_tnt Expected: 426 Got: 494
+[21Dec2024 21:40:41.935] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:formidibomb Expected: 427 Got: 495
+[21Dec2024 21:40:41.935] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:command_block Expected: 428 Got: 496
+[21Dec2024 21:40:41.935] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:withered_symbiont Expected: 429 Got: 497
+[21Dec2024 21:40:41.935] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:wither_storm_head Expected: 430 Got: 498
+[21Dec2024 21:40:41.935] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:tentacle Expected: 431 Got: 499
+[21Dec2024 21:40:41.935] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:sickened_villager Expected: 432 Got: 500
+[21Dec2024 21:40:41.936] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:sickened_phantom Expected: 433 Got: 501
+[21Dec2024 21:40:41.936] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:sickened_chicken Expected: 434 Got: 502
+[21Dec2024 21:40:41.936] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:sickened_parrot Expected: 435 Got: 503
+[21Dec2024 21:40:41.936] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:sickened_wolf Expected: 436 Got: 504
+[21Dec2024 21:40:41.936] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:sickened_cat Expected: 437 Got: 505
+[21Dec2024 21:40:41.936] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:sickened_cow Expected: 438 Got: 506
+[21Dec2024 21:40:41.937] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:sickened_pig Expected: 439 Got: 507
+[21Dec2024 21:40:41.937] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:sickened_mushroom_cow Expected: 440 Got: 508
+[21Dec2024 21:40:41.937] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:sickened_bee Expected: 441 Got: 509
+[21Dec2024 21:40:41.937] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:sickened_pillager Expected: 442 Got: 510
+[21Dec2024 21:40:41.937] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:sickened_vindicator Expected: 443 Got: 511
+[21Dec2024 21:40:41.938] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:sickened_iron_golem Expected: 444 Got: 512
+[21Dec2024 21:40:41.938] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:tainted_slime Expected: 445 Got: 513
+[21Dec2024 21:40:41.938] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: witherstormmod:tentacle_spike Expected: 446 Got: 514
+[21Dec2024 21:40:41.950] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:painting_variant: Object did not get ID it asked for. Name: witherstormmod:amulet Expected: 30 Got: 31
+[21Dec2024 21:40:41.962] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.963] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.963] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.963] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.963] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.964] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.964] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.964] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.964] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.964] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.965] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.965] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.965] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.965] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.965] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.966] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.966] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.966] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.966] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.966] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.967] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.967] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.967] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.967] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.967] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.968] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.968] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.968] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.968] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.968] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.969] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.969] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.969] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.969] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.970] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.970] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.970] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.970] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.970] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.971] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.971] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.971] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.971] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.971] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.971] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.971] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.972] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.972] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.972] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.972] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:41.972] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[21Dec2024 21:40:43.629] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/assets/.mcassetsroot' uses unexpected schema
+[21Dec2024 21:40:43.629] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/data/.mcassetsroot' uses unexpected schema
+[21Dec2024 21:40:46.024] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 13 recipes
+[21Dec2024 21:40:46.218] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2898 advancements
+[21Dec2024 21:40:46.231] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
+[21Dec2024 21:40:46.238] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[21Dec2024 21:40:46.267] [main/INFO] [insane96mcp.insanelib.InsaneLib/]: Reloading InsaneLib JsonFeature Json
+[21Dec2024 21:40:47.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[21Dec2024 21:40:47.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21Dec2024 21:40:47.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21Dec2024 21:40:47.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[21Dec2024 21:40:47.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[21Dec2024 21:40:47.998] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[21Dec2024 21:40:48.076] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21Dec2024 21:40:48.076] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[21Dec2024 21:40:48.076] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21Dec2024 21:40:48.077] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[21Dec2024 21:40:48.099] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[21Dec2024 21:40:48.099] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[21Dec2024 21:40:48.100] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[21Dec2024 21:40:48.103] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/witherstormmod-server.toml is not correct. Correcting
+[21Dec2024 21:40:48.104] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Dec2024 21:40:48.105] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Dec2024 21:40:48.105] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc.shouldChunkLoadWhenNoPlayers was corrected from null to its default, false. 
+[21Dec2024 21:40:48.106] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc.invulnerabilityTime was corrected from null to its default, 50. 
+[21Dec2024 21:40:48.106] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc.flyingHeight was corrected from null to its default, 75. 
+[21Dec2024 21:40:48.107] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc.dynamicFlyingHeight was corrected from null to its default, false. 
+[21Dec2024 21:40:48.107] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc.dynamicFlyingHeightTime was corrected from null to its default, 60. 
+[21Dec2024 21:40:48.108] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc.tillShouldShowHole was corrected from null to its default, 6. 
+[21Dec2024 21:40:48.108] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc.shouldShowHole was corrected from null to its default, true. 
+[21Dec2024 21:40:48.108] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc.rotationSpeed was corrected from null to its default, 0.1. 
+[21Dec2024 21:40:48.109] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc.witherStormInvulnerability was corrected from null to its default, true. 
+[21Dec2024 21:40:48.109] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc.smartBossbar was corrected from null to its default, true. 
+[21Dec2024 21:40:48.109] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc.randomBowelsEntrance was corrected from null to its default, true. 
+[21Dec2024 21:40:48.110] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc.crossbowsSupportEnderPearls was corrected from null to its default, true. 
+[21Dec2024 21:40:48.110] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc.preventWitherStormCamping was corrected from null to its default, true. 
+[21Dec2024 21:40:48.111] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc.bowelsFallResistance was corrected from null to its default, true. 
+[21Dec2024 21:40:48.111] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc.resummonedPhase was corrected from null to its default, 4. 
+[21Dec2024 21:40:48.111] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc.canAttackHeads was corrected from null to its default, true. 
+[21Dec2024 21:40:48.111] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc.endOfPhaseFiveBombableExclusively was corrected from null to its default, false. 
+[21Dec2024 21:40:48.112] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc.shouldPlayGlobalSoundsCrossDimensionally was corrected from null to its default, false. 
+[21Dec2024 21:40:48.112] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc.onlyTryPickingUpTractorTagged was corrected from null to its default, false. 
+[21Dec2024 21:40:48.113] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc.constantBlackhole was corrected from null to its default, false. 
+[21Dec2024 21:40:48.113] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc.instantChomp was corrected from null to its default, false. 
+[21Dec2024 21:40:48.113] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Dec2024 21:40:48.114] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.ultimateTargetingType was corrected from null to its default, NEAREST. 
+[21Dec2024 21:40:48.114] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.farthestTargetingTime was corrected from null to its default, 15. 
+[21Dec2024 21:40:48.114] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.randomizedTargetingTime was corrected from null to its default, 15. 
+[21Dec2024 21:40:48.115] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.randomlySpeedUpWithTargetChange was corrected from null to its default, true. 
+[21Dec2024 21:40:48.115] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.amuletOverride was corrected from null to its default, true. 
+[21Dec2024 21:40:48.115] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.maxRandomStrollTargetingTypeRadius was corrected from null to its default, 500. 
+[21Dec2024 21:40:48.116] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.ignoreUltimateTargetIfHidden was corrected from null to its default, true. 
+[21Dec2024 21:40:48.116] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.witherStormsFollowBiggerStorms was corrected from null to its default, true. 
+[21Dec2024 21:40:48.116] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.chases was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Dec2024 21:40:48.117] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.chases.shouldChaseWhenTargetStopped was corrected from null to its default, true. 
+[21Dec2024 21:40:48.117] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.chases.chaseOnPhaseChange was corrected from null to its default, true. 
+[21Dec2024 21:40:48.117] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.target_stationary_logic was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Dec2024 21:40:48.117] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.target_stationary_logic.targetStationaryChunkRadius was corrected from null to its default, 8. 
+[21Dec2024 21:40:48.118] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.target_stationary_logic.targetStationaryMinutes was corrected from null to its default, 30. 
+[21Dec2024 21:40:48.118] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.target_stationary_logic.usePhaseAsDistanceMultiplier was corrected from null to its default, true. 
+[21Dec2024 21:40:48.118] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.target_stationary_logic.distanceMultiplier was corrected from null to its default, 1.0. 
+[21Dec2024 21:40:48.119] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.target_stationary_logic.targetRunawayMinutes was corrected from null to its default, 10. 
+[21Dec2024 21:40:48.119] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.runaway_attempts was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Dec2024 21:40:48.119] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.runaway_attempts.targetRunawayAttempts was corrected from null to its default, true. 
+[21Dec2024 21:40:48.120] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.runaway_attempts.targetRunawayAttemptMinutes was corrected from null to its default, 2. 
+[21Dec2024 21:40:48.120] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.runaway_attempts.targetRunawayAttemptsRequired was corrected from null to its default, 5. 
+[21Dec2024 21:40:48.120] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.runaway_attempts.minutesTillRunawayAttemptDiminish was corrected from null to its default, 16. 
+[21Dec2024 21:40:48.120] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.distractions was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Dec2024 21:40:48.121] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.distractions.targettingDistractionsEnabled was corrected from null to its default, true. 
+[21Dec2024 21:40:48.121] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.distractions.distractionTimeMinutes was corrected from null to its default, 25. 
+[21Dec2024 21:40:48.121] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.distractions.maximumDistractionDistance was corrected from null to its default, 1000. 
+[21Dec2024 21:40:48.121] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.distractions.minimumDistractionDistance was corrected from null to its default, 50. 
+[21Dec2024 21:40:48.122] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.distractions.randomDistractionChances was corrected from null to its default, true. 
+[21Dec2024 21:40:48.122] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.distractions.searchableRangeMultiplier was corrected from null to its default, 1. 
+[21Dec2024 21:40:48.122] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.distractions.distractionWaitTime was corrected from null to its default, 2. 
+[21Dec2024 21:40:48.124] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.distractions.boatingForTooLongDistractions was corrected from null to its default, true. 
+[21Dec2024 21:40:48.124] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.distractions.boatingForTooLongSeconds was corrected from null to its default, 60. 
+[21Dec2024 21:40:48.124] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.random_strolling was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Dec2024 21:40:48.125] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.random_strolling.randomStrollingWhenTargetHidden was corrected from null to its default, true. 
+[21Dec2024 21:40:48.125] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.speed was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Dec2024 21:40:48.125] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.speed.chasingFlyingSpeed was corrected from null to its default, 0.4. 
+[21Dec2024 21:40:48.125] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.ultimate_target_logic.speed.normalFlyingSpeed was corrected from null to its default, 0.02. 
+[21Dec2024 21:40:48.126] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.targeting was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Dec2024 21:40:48.126] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.targeting.headEscapeTime was corrected from null to its default, 40. 
+[21Dec2024 21:40:48.126] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.targeting.tractorPullSpeedModifier was corrected from null to its default, 0.2. 
+[21Dec2024 21:40:48.127] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.targeting.specialTargetingBias was corrected from null to its default, true. 
+[21Dec2024 21:40:48.127] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.targeting.specialTargetingBiasChance was corrected from null to its default, 75. 
+[21Dec2024 21:40:48.127] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.evolution was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Dec2024 21:40:48.128] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.evolution.evolutionAttributeModifier was corrected from null to its default, 1.0. 
+[21Dec2024 21:40:48.128] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.performance was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Dec2024 21:40:48.128] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.performance.clustersRemoveItems was corrected from null to its default, true. 
+[21Dec2024 21:40:48.128] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.performance.squashHitbox was corrected from null to its default, false. 
+[21Dec2024 21:40:48.129] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.performance.chunkLoadingRadius was corrected from null to its default, 12. 
+[21Dec2024 21:40:48.129] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.performance.removeNearbyJunk was corrected from null to its default, true. 
+[21Dec2024 21:40:48.129] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.performance.mobsRunIntoPortals was corrected from null to its default, true. 
+[21Dec2024 21:40:48.130] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.world_consumption was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Dec2024 21:40:48.130] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.world_consumption.hunchbackClusterPickupInterval was corrected from null to its default, 20. 
+[21Dec2024 21:40:48.131] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.world_consumption.clusterPickupInterval was corrected from null to its default, 40. 
+[21Dec2024 21:40:48.131] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.world_consumption.devourerClusterPickupInterval was corrected from null to its default, 40. 
+[21Dec2024 21:40:48.131] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.world_consumption.canPickupMobClusters was corrected from null to its default, true. 
+[21Dec2024 21:40:48.132] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.world_consumption.clusterSizeModifier was corrected from null to its default, 0. 
+[21Dec2024 21:40:48.132] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.world_consumption.tractorBeamClusterPickUp was corrected from null to its default, true. 
+[21Dec2024 21:40:48.132] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.world_consumption.blockClusterPullSpeedModifier was corrected from null to its default, 1.0. 
+[21Dec2024 21:40:48.133] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.world_consumption.tractorBeamClusterSpeedModifier was corrected from null to its default, 1.0. 
+[21Dec2024 21:40:48.133] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.world_consumption.tractorBeamBlockSearchRadius was corrected from null to its default, 10. 
+[21Dec2024 21:40:48.133] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.world_consumption.canClustersSpiralCounterClockwise was corrected from null to its default, false. 
+[21Dec2024 21:40:48.134] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.caves was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Dec2024 21:40:48.134] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.caves.caveRumbles was corrected from null to its default, true. 
+[21Dec2024 21:40:48.134] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.caves.occludeSoundsUnderground was corrected from null to its default, true. 
+[21Dec2024 21:40:48.134] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.caves.caveRumbleIntensity was corrected from null to its default, 0.25. 
+[21Dec2024 21:40:48.135] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.caves.chanceForExtendedRumbles was corrected from null to its default, true. 
+[21Dec2024 21:40:48.136] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.caves.caveRumbleIntervalMin was corrected from null to its default, 60. 
+[21Dec2024 21:40:48.136] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.caves.caveRumbleIntervalMax was corrected from null to its default, 180. 
+[21Dec2024 21:40:48.136] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.caves.caveRumblesMessWithRedstone was corrected from null to its default, true. 
+[21Dec2024 21:40:48.137] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither_sickness was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Dec2024 21:40:48.137] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither_sickness.witherSicknessEnabled was corrected from null to its default, true. 
+[21Dec2024 21:40:48.137] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither_sickness.sickenedMobConversions was corrected from null to its default, true. 
+[21Dec2024 21:40:48.138] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither_sickness.increaseAmplifier was corrected from null to its default, true. 
+[21Dec2024 21:40:48.138] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither_sickness.requiredContacts was corrected from null to its default, 6. 
+[21Dec2024 21:40:48.138] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither_sickness.requiredProximitySeconds was corrected from null to its default, 600. 
+[21Dec2024 21:40:48.139] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither_sickness.applicationDelay was corrected from null to its default, 720. 
+[21Dec2024 21:40:48.139] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither_sickness.cureDelay was corrected from null to its default, 480. 
+[21Dec2024 21:40:48.139] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither_sickness.lowImmuneRequiredProximitySeconds was corrected from null to its default, 360. 
+[21Dec2024 21:40:48.139] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither_sickness.lowImmuneApplicationDelay was corrected from null to its default, 410. 
+[21Dec2024 21:40:48.140] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither_sickness.lowImmuneCureDelay was corrected from null to its default, 480. 
+[21Dec2024 21:40:48.140] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither_sickness.proximitySecondsModifierMax was corrected from null to its default, 180. 
+[21Dec2024 21:40:48.140] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither_sickness.applicationDelayModifierMax was corrected from null to its default, 300. 
+[21Dec2024 21:40:48.141] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither_sickness.cureDelayModifierMax was corrected from null to its default, 180. 
+[21Dec2024 21:40:48.141] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither_sickness.lowImmuneProximityModifierMax was corrected from null to its default, 180. 
+[21Dec2024 21:40:48.141] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither_sickness.lowImmuneApplicationModifierMax was corrected from null to its default, 140. 
+[21Dec2024 21:40:48.141] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither_sickness.lowImmuneCureDelayModifierMax was corrected from null to its default, 180. 
+[21Dec2024 21:40:48.142] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither_sickness.keepSicknessAfterRespawn was corrected from null to its default, true. 
+[21Dec2024 21:40:48.142] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.formidibomb was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Dec2024 21:40:48.142] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.formidibomb.craftFuseTicks was corrected from null to its default, 12000. 
+[21Dec2024 21:40:48.142] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.formidibomb.catchFireFuseTicks was corrected from null to its default, 1200. 
+[21Dec2024 21:40:48.143] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.formidibomb.shouldDropFromInventory was corrected from null to its default, true. 
+[21Dec2024 21:40:48.143] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.formidibomb.dropInterval was corrected from null to its default, 4. 
+[21Dec2024 21:40:48.144] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.formidibomb.lowerBlockResistance was corrected from null to its default, true. 
+[21Dec2024 21:40:48.144] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.formidibomb.formidibombFuseEnabled was corrected from null to its default, true. 
+[21Dec2024 21:40:48.145] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.playing_dead was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Dec2024 21:40:48.145] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.playing_dead.revivalTimer was corrected from null to its default, true. 
+[21Dec2024 21:40:48.146] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.playing_dead.revivalTimeMinutes was corrected from null to its default, 60. 
+[21Dec2024 21:40:48.146] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.playing_dead.revivalPlayerProtection was corrected from null to its default, 3. 
+[21Dec2024 21:40:48.147] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.withered_symbiont was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Dec2024 21:40:48.147] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.withered_symbiont.canSummonSymbiont was corrected from null to its default, true. 
+[21Dec2024 21:40:48.147] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.withered_symbiont.shouldSymbiontAttackMobs was corrected from null to its default, false. 
+[21Dec2024 21:40:48.147] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.withered_symbiont.minimumSpawnCheckInterval was corrected from null to its default, 60. 
+[21Dec2024 21:40:48.148] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.withered_symbiont.witherStormSummoningDelay was corrected from null to its default, 10. 
+[21Dec2024 21:40:48.148] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.withered_symbiont.playerInvulnerableTime was corrected from null to its default, 5. 
+[21Dec2024 21:40:48.148] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.withered_symbiont.playerSummoningDelay was corrected from null to its default, 10. 
+[21Dec2024 21:40:48.148] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.withered_symbiont.playerSummoningDelayOnKill was corrected from null to its default, 40. 
+[21Dec2024 21:40:48.149] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.withered_symbiont.attackableWhenNotVulnerable was corrected from null to its default, false. 
+[21Dec2024 21:40:48.149] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.withered_symbiont.bookDropsInInventory was corrected from null to its default, true. 
+[21Dec2024 21:40:48.149] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.withered_symbiont.healthScalePerPlayer was corrected from null to its default, 20.0. 
+[21Dec2024 21:40:48.149] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.flaming_skulls was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Dec2024 21:40:48.150] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.flaming_skulls.flamingSkullExplosionSize was corrected from null to its default, 5.0. 
+[21Dec2024 21:40:48.150] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.flaming_skulls.flamingSkullSpeedModifier was corrected from null to its default, 1.0. 
+[21Dec2024 21:40:48.150] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.roaring was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Dec2024 21:40:48.150] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.roaring.minimumRoarInterval was corrected from null to its default, 20. 
+[21Dec2024 21:40:48.151] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.roaring.maximumRoarInterval was corrected from null to its default, 50. 
+[21Dec2024 21:40:48.151] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.item_preservation was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21Dec2024 21:40:48.151] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.item_preservation.itemPreservation was corrected from null to its default, CHOMPED_OR_KILLED_NEAR_HEAD. 
+[21Dec2024 21:40:48.151] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.item_preservation.preserveDropsForAllMobs was corrected from null to its default, false. 
+[21Dec2024 21:40:48.152] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.flyingEnabledWarning was corrected from null to its default, true. 
+[21Dec2024 21:40:48.183] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[21Dec2024 21:40:48.186] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
+[21Dec2024 21:40:48.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21Dec2024 21:40:51.495] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[21Dec2024 21:40:57.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[21Dec2024 21:41:00.206] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 21:41:00.208] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 21:41:00.208] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 21:41:00.209] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 21:41:00.209] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 21:41:00.210] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 21:41:00.336] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Dec2024 21:41:01.267] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[21Dec2024 21:41:01.301] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[21Dec2024 21:41:01.355] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
+[21Dec2024 21:41:01.835] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
+[21Dec2024 21:41:02.989] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[21Dec2024 21:41:02.991] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[21Dec2024 21:41:03.840] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[21Dec2024 21:41:03.841] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[21Dec2024 21:41:04.335] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
+[21Dec2024 21:41:05.355] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 36%
+[21Dec2024 21:41:05.356] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 36%
+[21Dec2024 21:41:06.204] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 39%
+[21Dec2024 21:41:06.715] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[21Dec2024 21:41:06.847] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[21Dec2024 21:41:07.756] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
+[21Dec2024 21:41:08.621] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[21Dec2024 21:41:08.621] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[21Dec2024 21:41:08.925] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
+[21Dec2024 21:41:09.733] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[21Dec2024 21:41:09.861] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
+[21Dec2024 21:41:10.337] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 99%
+[21Dec2024 21:41:10.340] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 13006 ms
+[21Dec2024 21:41:10.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (22.250s)! For help, type "help"
+[21Dec2024 21:41:10.386] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21Dec2024 21:41:10.417] [Server thread/INFO] [journeymap/]: witherstormmod~bowels (Initialized) Setting config file to version "5.10.0": journeymap.server.witherstormmod~bowels.config
+[21Dec2024 21:41:10.417] [Server thread/INFO] [journeymap/]: witherstormmod~bowels (Valid) Creating config file: ./journeymap/server/5.10/journeymap.server.witherstormmod~bowels.config
+[21Dec2024 21:41:10.434] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[21Dec2024 21:41:10.434] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[21Dec2024 21:41:24.297] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJForever1764[/127.52.43.104:42745] logged in with entity id 812 at (-0.28786279992253194, 1.5422295509857193, -48.69097268689261)
+[21Dec2024 21:41:24.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 joined the game
+[21Dec2024 21:41:24.608] [Server thread/INFO] [Jade/]: Syncing config to JJForever1764 (d78476c0-7c01-3ae6-ba37-28d19ce982b9)
+[21Dec2024 21:41:56.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Knowledge of Death]
+[21Dec2024 21:41:56.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Ashes 'n Bones]
+[21Dec2024 21:49:10.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJForever1764 lost connection: Disconnected
+[21Dec2024 21:49:10.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 left the game
