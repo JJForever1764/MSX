@@ -65,6 +65,7 @@
       "minecraft:vindicator": "2024-12-23 18:10:48 +0000",
       "minecraft:spider": "2024-12-20 19:53:27 +0000",
       "minecraft:creeper": "2024-12-20 20:04:12 +0000",
+      "minecraft:enderman": "2024-12-23 18:41:19 +0000",
       "minecraft:zombie": "2024-12-20 20:10:49 +0000"
     },
     "done": false
@@ -477,6 +478,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-23 18:42:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 18:32:06 +0000"
@@ -606,6 +613,12 @@
   "securitycraft:recipes/misc/storage_module": {
     "criteria": {
       "has_iron": "2024-12-23 18:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-23 18:34:30 +0000"
     },
     "done": true
   },
@@ -921,6 +934,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-23 18:34:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2024-12-23 18:32:06 +0000"
@@ -1089,6 +1108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-23 18:33:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2024-12-23 18:05:46 +0000"
@@ -1242,6 +1267,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-23 18:08:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2024-12-23 18:42:01 +0000"
     },
     "done": true
   },
