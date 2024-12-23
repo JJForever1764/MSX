@@ -3098,3 +3098,598 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Dec2024 18:13:41.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Dragonslayer]
 [23Dec2024 18:15:04.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
 [23Dec2024 18:15:07.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[23Dec2024 18:17:35.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 18:17:35.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 18:17:48.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has reached the goal [Fortuitous Militia]
+[23Dec2024 18:21:10.490] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:gust spellLevel:5, isClient:false
+[23Dec2024 18:21:10.492] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:gust(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:gust], spellLevel:5, duration:15, durationRemaining:15, source:MOB, type:LONG
+[23Dec2024 18:21:10.492] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:10.540] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:10.588] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:10.640] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:10.688] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:10.739] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:10.788] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:10.838] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:10.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:10.937] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:10.988] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:11.038] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:11.089] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:11.140] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:11.190] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:11.190] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:21:11.190] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:21:11.192] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:gust(5), pmd:isCasting:true, spellID:irons_spellbooks:gust], spellLevel:5, duration:15, durationRemaining:0, source:MOB, type:LONG
+[23Dec2024 18:21:11.192] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:gust(5), pmd:isCasting:true, spellID:irons_spellbooks:gust], spellLevel:5, duration:15, durationRemaining:0, source:MOB, type:LONG, cancelled:false
+[23Dec2024 18:21:12.338] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:guiding_bolt spellLevel:4, isClient:false
+[23Dec2024 18:21:12.338] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:guiding_bolt(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:21:12.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:12.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:21:12.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:21:12.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:guiding_bolt(4), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:21:12.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:guiding_bolt(4), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[23Dec2024 18:21:15.087] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:guiding_bolt spellLevel:4, isClient:false
+[23Dec2024 18:21:15.087] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:guiding_bolt(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:21:15.088] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:15.088] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:21:15.088] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:21:15.088] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:guiding_bolt(4), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:21:15.088] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:guiding_bolt(4), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[23Dec2024 18:21:15.788] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:gust spellLevel:5, isClient:false
+[23Dec2024 18:21:15.789] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:gust(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:gust], spellLevel:5, duration:15, durationRemaining:15, source:MOB, type:LONG
+[23Dec2024 18:21:15.789] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:15.838] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:15.890] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:15.939] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:15.988] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:16.038] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:16.087] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:16.138] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:16.188] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:16.238] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:16.287] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:16.341] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:16.390] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:16.440] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:16.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:16.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:21:16.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:21:16.489] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:gust(5), pmd:isCasting:true, spellID:irons_spellbooks:gust], spellLevel:5, duration:15, durationRemaining:0, source:MOB, type:LONG
+[23Dec2024 18:21:16.489] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:gust(5), pmd:isCasting:true, spellID:irons_spellbooks:gust], spellLevel:5, duration:15, durationRemaining:0, source:MOB, type:LONG, cancelled:false
+[23Dec2024 18:21:18.037] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:wisp spellLevel:4, isClient:false
+[23Dec2024 18:21:18.039] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:wisp(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:20, source:MOB, type:LONG
+[23Dec2024 18:21:18.039] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:18.088] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:18.139] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:18.187] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:18.238] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:18.291] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:18.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:18.388] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:18.439] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:18.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:18.538] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:18.588] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:18.637] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:18.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:18.737] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:18.788] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:18.838] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:18.888] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:18.938] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:18.987] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:18.987] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:21:18.987] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:21:18.988] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:wisp(4), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:0, source:MOB, type:LONG
+[23Dec2024 18:21:18.988] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:wisp(4), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:0, source:MOB, type:LONG, cancelled:false
+[23Dec2024 18:21:19.187] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:guiding_bolt spellLevel:3, isClient:false
+[23Dec2024 18:21:19.187] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:guiding_bolt(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:21:19.187] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:19.187] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:21:19.187] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:21:19.187] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:guiding_bolt(3), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:21:19.187] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:guiding_bolt(3), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[23Dec2024 18:21:19.989] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:gust spellLevel:5, isClient:false
+[23Dec2024 18:21:19.989] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:gust(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:gust], spellLevel:5, duration:15, durationRemaining:15, source:MOB, type:LONG
+[23Dec2024 18:21:19.989] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:20.038] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:20.089] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:20.139] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:20.189] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:20.240] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:20.289] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:20.338] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:20.388] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:20.439] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:20.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:20.538] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:20.589] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:20.639] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:20.690] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:20.690] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:21:20.690] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:21:20.691] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:gust(5), pmd:isCasting:true, spellID:irons_spellbooks:gust], spellLevel:5, duration:15, durationRemaining:0, source:MOB, type:LONG
+[23Dec2024 18:21:20.691] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:gust(5), pmd:isCasting:true, spellID:irons_spellbooks:gust], spellLevel:5, duration:15, durationRemaining:0, source:MOB, type:LONG, cancelled:false
+[23Dec2024 18:21:21.540] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:guiding_bolt spellLevel:4, isClient:false
+[23Dec2024 18:21:21.540] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:guiding_bolt(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:21:21.540] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:21.540] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:21:21.540] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:21:21.540] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:guiding_bolt(4), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:21:21.540] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:guiding_bolt(4), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[23Dec2024 18:21:22.788] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:guiding_bolt spellLevel:3, isClient:false
+[23Dec2024 18:21:22.788] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:guiding_bolt(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:21:22.788] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:22.788] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:21:22.788] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:21:22.789] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:guiding_bolt(3), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:21:22.789] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:guiding_bolt(3), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[23Dec2024 18:21:24.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:gust spellLevel:4, isClient:false
+[23Dec2024 18:21:24.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:gust(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:gust], spellLevel:4, duration:15, durationRemaining:15, source:MOB, type:LONG
+[23Dec2024 18:21:24.340] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:24.387] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:24.437] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:24.490] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:24.537] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:24.588] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:24.637] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:24.687] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:24.737] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:24.786] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:24.837] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:24.887] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:24.936] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:24.987] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:25.036] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:25.037] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:21:25.037] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:21:25.037] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:gust(4), pmd:isCasting:true, spellID:irons_spellbooks:gust], spellLevel:4, duration:15, durationRemaining:0, source:MOB, type:LONG
+[23Dec2024 18:21:25.037] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:gust(4), pmd:isCasting:true, spellID:irons_spellbooks:gust], spellLevel:4, duration:15, durationRemaining:0, source:MOB, type:LONG, cancelled:false
+[23Dec2024 18:21:25.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:guiding_bolt spellLevel:4, isClient:false
+[23Dec2024 18:21:25.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:guiding_bolt(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:21:25.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:25.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:21:25.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:21:25.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:guiding_bolt(4), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:21:25.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:guiding_bolt(4), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[23Dec2024 18:21:27.187] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:guiding_bolt spellLevel:3, isClient:false
+[23Dec2024 18:21:27.188] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:guiding_bolt(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:21:27.188] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:27.188] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:21:27.188] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:21:27.188] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:guiding_bolt(3), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:21:27.188] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:guiding_bolt(3), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[23Dec2024 18:21:31.740] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:guiding_bolt spellLevel:4, isClient:false
+[23Dec2024 18:21:31.740] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:guiding_bolt(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:21:31.740] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:21:31.740] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:21:31.740] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:21:31.741] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:guiding_bolt(4), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:21:31.741] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:guiding_bolt(4), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[23Dec2024 18:22:35.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 18:22:35.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 18:23:20.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:guiding_bolt spellLevel:3, isClient:false
+[23Dec2024 18:23:20.489] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:guiding_bolt(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:23:20.489] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:20.489] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:23:20.489] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:23:20.489] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:guiding_bolt(3), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:23:20.489] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:guiding_bolt(3), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[23Dec2024 18:23:23.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:guiding_bolt spellLevel:4, isClient:false
+[23Dec2024 18:23:23.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:guiding_bolt(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:23:23.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:23.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:23:23.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:23:23.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:guiding_bolt(4), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:23:23.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:guiding_bolt(4), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[23Dec2024 18:23:25.639] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:guiding_bolt spellLevel:3, isClient:false
+[23Dec2024 18:23:25.639] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:guiding_bolt(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:23:25.639] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:25.639] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:23:25.639] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:23:25.639] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:guiding_bolt(3), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:23:25.639] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:guiding_bolt(3), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[23Dec2024 18:23:28.237] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:wisp spellLevel:4, isClient:false
+[23Dec2024 18:23:28.237] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:wisp(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:20, source:MOB, type:LONG
+[23Dec2024 18:23:28.237] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:28.286] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:28.336] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:28.389] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:28.438] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:28.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:28.550] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:28.592] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:28.638] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:28.687] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:28.737] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:28.787] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:28.837] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:28.887] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:28.938] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:28.987] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:29.037] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:29.089] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:29.138] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:29.187] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:29.187] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:23:29.187] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:23:29.188] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:wisp(4), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:0, source:MOB, type:LONG
+[23Dec2024 18:23:29.188] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:wisp(4), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:0, source:MOB, type:LONG, cancelled:false
+[23Dec2024 18:23:29.438] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:wisp spellLevel:3, isClient:false
+[23Dec2024 18:23:29.438] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:wisp(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:3, duration:20, durationRemaining:20, source:MOB, type:LONG
+[23Dec2024 18:23:29.438] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:29.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:29.538] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:29.587] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:29.637] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:29.687] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:29.738] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:29.786] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:29.837] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:29.886] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:29.937] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:29.986] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:30.037] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:30.087] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:30.137] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:30.187] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:30.237] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:30.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:30.337] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:30.387] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:30.388] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:23:30.388] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:23:30.388] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:wisp(3), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:3, duration:20, durationRemaining:0, source:MOB, type:LONG
+[23Dec2024 18:23:30.388] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:wisp(3), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:3, duration:20, durationRemaining:0, source:MOB, type:LONG, cancelled:false
+[23Dec2024 18:23:30.937] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:wisp spellLevel:4, isClient:false
+[23Dec2024 18:23:30.937] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:wisp(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:20, source:MOB, type:LONG
+[23Dec2024 18:23:30.937] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:30.987] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:31.037] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:31.087] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:31.137] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:31.187] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:31.236] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:31.286] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:31.337] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:31.387] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:31.437] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:31.486] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:31.537] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:31.586] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:31.637] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:31.687] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:31.737] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:31.788] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:31.839] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:31.887] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:31.887] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:23:31.888] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:23:31.888] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:wisp(4), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:0, source:MOB, type:LONG
+[23Dec2024 18:23:31.888] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:wisp(4), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:0, source:MOB, type:LONG, cancelled:false
+[23Dec2024 18:23:33.537] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:wisp spellLevel:3, isClient:false
+[23Dec2024 18:23:33.537] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:wisp(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:3, duration:20, durationRemaining:20, source:MOB, type:LONG
+[23Dec2024 18:23:33.537] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:33.586] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:33.636] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:33.686] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:33.737] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:33.787] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:33.837] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:33.886] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:33.936] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:33.989] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:34.037] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:34.087] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:34.138] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:34.187] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:34.237] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:34.287] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:34.337] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:34.387] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:34.437] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:34.487] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:34.487] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:23:34.487] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:23:34.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:wisp(3), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:3, duration:20, durationRemaining:0, source:MOB, type:LONG
+[23Dec2024 18:23:34.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:wisp(3), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:3, duration:20, durationRemaining:0, source:MOB, type:LONG, cancelled:false
+[23Dec2024 18:23:40.287] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:wisp spellLevel:3, isClient:false
+[23Dec2024 18:23:40.287] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:wisp(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:3, duration:20, durationRemaining:20, source:MOB, type:LONG
+[23Dec2024 18:23:40.287] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:40.337] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:40.387] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:40.442] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:40.487] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:40.538] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:40.587] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:40.638] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:40.688] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:40.738] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:40.788] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:40.837] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:40.887] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:40.938] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:40.987] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:41.038] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:41.088] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:41.138] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:41.187] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:41.238] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:41.238] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:23:41.238] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:23:41.238] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:wisp(3), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:3, duration:20, durationRemaining:0, source:MOB, type:LONG
+[23Dec2024 18:23:41.238] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:wisp(3), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:3, duration:20, durationRemaining:0, source:MOB, type:LONG, cancelled:false
+[23Dec2024 18:23:42.837] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:wisp spellLevel:4, isClient:false
+[23Dec2024 18:23:42.838] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:wisp(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:20, source:MOB, type:LONG
+[23Dec2024 18:23:42.838] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:42.887] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:42.938] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:42.987] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:43.037] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:43.087] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:43.138] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:43.188] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:43.237] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:43.287] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:43.338] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:43.389] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:43.438] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:43.490] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:43.538] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:43.588] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:43.638] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:43.690] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:43.737] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:43.787] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:43.787] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:23:43.787] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:23:43.787] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:wisp(4), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:0, source:MOB, type:LONG
+[23Dec2024 18:23:43.787] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:wisp(4), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:0, source:MOB, type:LONG, cancelled:false
+[23Dec2024 18:23:45.038] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:guiding_bolt spellLevel:4, isClient:false
+[23Dec2024 18:23:45.038] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:guiding_bolt(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:23:45.038] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:45.038] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:23:45.038] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:23:45.039] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:guiding_bolt(4), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:23:45.039] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:guiding_bolt(4), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[23Dec2024 18:23:46.990] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:wisp spellLevel:4, isClient:false
+[23Dec2024 18:23:46.990] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:wisp(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:20, source:MOB, type:LONG
+[23Dec2024 18:23:46.990] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:47.039] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:47.088] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:47.139] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:47.188] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:47.238] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:47.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:47.338] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:47.388] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:47.439] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:47.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:47.538] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:47.588] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:47.641] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:47.688] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:47.740] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:47.788] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:47.838] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:47.888] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:47.938] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:47.938] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:23:47.938] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:23:47.939] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:wisp(4), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:0, source:MOB, type:LONG
+[23Dec2024 18:23:47.939] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:wisp(4), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:0, source:MOB, type:LONG, cancelled:false
+[23Dec2024 18:23:48.338] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:wisp spellLevel:3, isClient:false
+[23Dec2024 18:23:48.338] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:wisp(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:3, duration:20, durationRemaining:20, source:MOB, type:LONG
+[23Dec2024 18:23:48.338] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:48.389] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:48.438] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:48.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:48.537] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:48.588] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:48.638] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:48.688] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:48.738] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:48.788] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:48.838] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:48.888] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:48.939] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:48.987] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:49.039] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:49.089] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:49.138] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:49.188] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:49.238] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:49.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:49.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:23:49.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:23:49.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:wisp(3), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:3, duration:20, durationRemaining:0, source:MOB, type:LONG
+[23Dec2024 18:23:49.289] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:wisp(3), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:3, duration:20, durationRemaining:0, source:MOB, type:LONG, cancelled:false
+[23Dec2024 18:23:50.438] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:guiding_bolt spellLevel:4, isClient:false
+[23Dec2024 18:23:50.439] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:guiding_bolt(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:23:50.439] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:23:50.439] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:23:50.439] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:23:50.439] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:guiding_bolt(4), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:23:50.439] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:guiding_bolt(4), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[23Dec2024 18:24:35.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:guiding_bolt spellLevel:4, isClient:false
+[23Dec2024 18:24:35.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:guiding_bolt(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:24:35.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:35.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:24:35.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:24:35.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:guiding_bolt(4), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:24:35.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:guiding_bolt(4), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[23Dec2024 18:24:38.287] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:wisp spellLevel:4, isClient:false
+[23Dec2024 18:24:38.287] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:wisp(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:20, source:MOB, type:LONG
+[23Dec2024 18:24:38.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:38.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:38.387] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:38.438] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:38.487] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:38.537] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:38.590] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:38.639] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:38.688] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:38.740] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:38.788] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:38.838] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:38.888] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:38.937] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:38.987] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:39.037] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:39.088] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:39.139] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:39.188] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:39.238] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:39.238] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:24:39.238] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:24:39.238] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:wisp(4), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:0, source:MOB, type:LONG
+[23Dec2024 18:24:39.238] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:wisp(4), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:0, source:MOB, type:LONG, cancelled:false
+[23Dec2024 18:24:45.890] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:wisp spellLevel:4, isClient:false
+[23Dec2024 18:24:45.890] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:wisp(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:20, source:MOB, type:LONG
+[23Dec2024 18:24:45.890] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:45.939] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:45.988] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:46.038] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:46.090] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:46.139] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:46.188] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:46.237] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:46.287] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:46.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:46.388] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:46.439] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:46.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:46.538] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:46.593] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:46.639] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:46.688] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:46.738] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:46.789] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:46.851] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:46.851] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:24:46.851] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:24:46.852] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:wisp(4), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:0, source:MOB, type:LONG
+[23Dec2024 18:24:46.852] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:wisp(4), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:0, source:MOB, type:LONG, cancelled:false
+[23Dec2024 18:24:48.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:guiding_bolt spellLevel:3, isClient:false
+[23Dec2024 18:24:48.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:guiding_bolt(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:24:48.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:48.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:24:48.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:24:48.289] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:guiding_bolt(3), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:24:48.289] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:guiding_bolt(3), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[23Dec2024 18:24:50.688] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:guiding_bolt spellLevel:3, isClient:false
+[23Dec2024 18:24:50.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:guiding_bolt(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:24:50.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:50.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:24:50.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:24:50.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:guiding_bolt(3), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:24:50.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:guiding_bolt(3), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[23Dec2024 18:24:52.542] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:wisp spellLevel:4, isClient:false
+[23Dec2024 18:24:52.542] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:wisp(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:20, source:MOB, type:LONG
+[23Dec2024 18:24:52.543] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:52.587] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:52.638] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:52.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:52.738] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:52.788] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:52.838] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:52.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:52.939] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:52.988] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:53.038] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:53.088] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:53.138] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:53.189] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:53.239] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:53.289] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:53.338] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:53.389] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:53.440] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:53.489] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:53.489] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:24:53.489] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:24:53.490] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:wisp(4), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:0, source:MOB, type:LONG
+[23Dec2024 18:24:53.490] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:wisp(4), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:0, source:MOB, type:LONG, cancelled:false
+[23Dec2024 18:24:53.593] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:guiding_bolt spellLevel:3, isClient:false
+[23Dec2024 18:24:53.593] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:guiding_bolt(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:24:53.593] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:53.593] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:24:53.593] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:24:53.593] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:guiding_bolt(3), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:24:53.594] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:guiding_bolt(3), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[23Dec2024 18:24:54.439] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:guiding_bolt spellLevel:4, isClient:false
+[23Dec2024 18:24:54.440] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:guiding_bolt(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:24:54.440] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:54.440] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:24:54.440] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:24:54.440] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:guiding_bolt(4), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:24:54.440] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:guiding_bolt(4), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[23Dec2024 18:24:55.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:wisp spellLevel:3, isClient:false
+[23Dec2024 18:24:55.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:wisp(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:3, duration:20, durationRemaining:20, source:MOB, type:LONG
+[23Dec2024 18:24:55.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:55.388] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:55.439] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:55.489] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:55.539] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:55.588] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:55.639] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:55.690] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:55.739] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:55.790] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:55.839] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:55.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:55.939] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:55.989] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:56.040] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:56.088] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:56.138] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:56.189] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:56.238] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:56.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:56.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:24:56.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:24:56.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:wisp(3), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:3, duration:20, durationRemaining:0, source:MOB, type:LONG
+[23Dec2024 18:24:56.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:wisp(3), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:3, duration:20, durationRemaining:0, source:MOB, type:LONG, cancelled:false
+[23Dec2024 18:24:56.489] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:guiding_bolt spellLevel:3, isClient:false
+[23Dec2024 18:24:56.489] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:guiding_bolt(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:24:56.489] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:56.489] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:24:56.489] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:24:56.489] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:guiding_bolt(3), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:24:56.489] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:guiding_bolt(3), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:3, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[23Dec2024 18:24:57.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:wisp spellLevel:4, isClient:false
+[23Dec2024 18:24:57.289] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:wisp(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:20, source:MOB, type:LONG
+[23Dec2024 18:24:57.289] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:57.338] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:57.388] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:57.437] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:57.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:57.538] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:57.588] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:57.638] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:57.687] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:57.738] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:57.788] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:57.838] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:57.888] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:57.938] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:57.989] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:58.038] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:58.089] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:58.138] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:58.189] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:58.239] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:58.239] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:24:58.239] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:24:58.240] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:wisp(4), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:0, source:MOB, type:LONG
+[23Dec2024 18:24:58.240] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:wisp(4), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:0, source:MOB, type:LONG, cancelled:false
+[23Dec2024 18:24:58.539] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.initiateCastSpell: spellType:irons_spellbooks:guiding_bolt spellLevel:4, isClient:false
+[23Dec2024 18:24:58.539] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerPreCast isClient:false, spellirons_spellbooks:guiding_bolt(ServerLevel[world]), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:24:58.539] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.1
+[23Dec2024 18:24:58.539] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.2
+[23Dec2024 18:24:58.539] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
+[23Dec2024 18:24:58.539] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:guiding_bolt(4), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT
+[23Dec2024 18:24:58.539] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:guiding_bolt(4), pmd:isCasting:true, spellID:irons_spellbooks:guiding_bolt], spellLevel:4, duration:0, durationRemaining:0, source:MOB, type:INSTANT, cancelled:false
+[23Dec2024 18:26:18.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[23Dec2024 18:26:27.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
