@@ -4381,3 +4381,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Dec2024 14:56:36.968] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ASCM.customServerAiStep.3
 [24Dec2024 14:56:36.969] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onCast isClient:false, spellirons_spellbooks:wisp(4), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:0, source:MOB, type:LONG
 [24Dec2024 14:56:36.969] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AbstractSpell.onServerCastComplete isClient:false, spellirons_spellbooks:wisp(4), pmd:isCasting:true, spellID:irons_spellbooks:wisp], spellLevel:4, duration:20, durationRemaining:0, source:MOB, type:LONG, cancelled:false
+[24Dec2024 14:58:32.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 14:58:32.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 15:03:31.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 15:03:32.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 15:04:12.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has completed the challenge [Village Defender]
