@@ -1,15 +1,15 @@
-[23Dec2024 17:56:21.535] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[23Dec2024 17:56:21.539] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[23Dec2024 17:56:22.597] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[23Dec2024 17:56:22.680] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSX/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[23Dec2024 17:56:23.014] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[23Dec2024 17:56:23.015] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[23Dec2024 17:56:23.017] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[23Dec2024 17:56:23.018] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[23Dec2024 17:56:23.369] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
-[23Dec2024 17:56:25.807] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[23Dec2024 17:56:25.884] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[23Dec2024 17:56:26.123] [main/INFO] [Puzzles Lib/]: Loading 34 mods:
+[24Dec2024 14:47:43.572] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[24Dec2024 14:47:43.577] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[24Dec2024 14:47:44.390] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[24Dec2024 14:47:44.442] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSX/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[24Dec2024 14:47:44.736] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[24Dec2024 14:47:44.737] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Dec2024 14:47:44.738] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Dec2024 14:47:44.740] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSX/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Dec2024 14:47:45.034] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[24Dec2024 14:47:46.804] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[24Dec2024 14:47:46.862] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[24Dec2024 14:47:47.015] [main/INFO] [Puzzles Lib/]: Loading 34 mods:
 	- alexscaves 1.1.4
 	- born_in_chaos_v1 1.0.0
 	- caelus 3.2.0+1.20.1
@@ -44,407 +44,294 @@
 	- tombstone 8.6.7
 	- vanillaplustools 1.20-1.0
 	- witherstormmod 4.1
-[23Dec2024 17:56:27.919] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[23Dec2024 17:56:35.850] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on witherstormmod.mixins.json:MixinSwellGoal::handler$zfh000$canUseInvoke exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[23Dec2024 17:56:38.458] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.TagsFeature
-[23Dec2024 17:56:38.477] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.FixFeature
-[23Dec2024 17:56:38.480] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.BaseFeature
-[23Dec2024 17:56:38.482] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.AEC3DFeature
-[23Dec2024 17:56:39.753] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.WitchFleeTarget
-[23Dec2024 17:56:39.754] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[23Dec2024 17:56:39.758] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.throwing.WitchPotionThrowing
-[23Dec2024 17:56:39.763] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.ThirstyWitches
-[23Dec2024 17:56:39.764] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.darkart.DarkArtWitch
-[23Dec2024 17:56:39.768] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.warden.Warden
-[23Dec2024 17:56:39.768] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.villager.VillagerAttacking
-[23Dec2024 17:56:39.776] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.spider.webber.ThrowingWeb
-[23Dec2024 17:56:39.783] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.spider.Misc
-[23Dec2024 17:56:39.785] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.slime.Slimes
-[23Dec2024 17:56:39.786] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.WitherSkeletons
-[23Dec2024 17:56:39.790] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.SkeletonFleeTarget
-[23Dec2024 17:56:39.793] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.shoot.SkeletonShoot
-[23Dec2024 17:56:39.797] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.shulker.ShulkerBullets
-[23Dec2024 17:56:39.800] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.shulker.shulkerattack.ShulkerAttack
-[23Dec2024 17:56:39.802] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.shulker.ShulkerArmor
-[23Dec2024 17:56:39.804] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.pets.Wolves
-[23Dec2024 17:56:39.811] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.pets.snowgolem.SnowGolems
-[23Dec2024 17:56:39.814] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.pets.IronGolems
-[23Dec2024 17:56:39.816] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.WardenInteractions
-[23Dec2024 17:56:39.823] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.targeting.Targeting
-[23Dec2024 17:56:39.839] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
-[23Dec2024 17:56:39.842] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.Spawning
-[23Dec2024 17:56:39.846] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.riding.Riding
-[23Dec2024 17:56:39.848] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.pearler.PearlerMobs
-[23Dec2024 17:56:39.851] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.OpenDoors
-[23Dec2024 17:56:39.852] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.movement.Movement
-[23Dec2024 17:56:39.856] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.miner.MinerMobs
-[23Dec2024 17:56:39.863] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.MeleeAttacking
-[23Dec2024 17:56:39.864] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.leap.Leap
-[23Dec2024 17:56:39.865] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[23Dec2024 17:56:39.865] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[23Dec2024 17:56:39.866] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.ItemDisruption
-[23Dec2024 17:56:39.872] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.flee.Flee
-[23Dec2024 17:56:39.884] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.fisher.FisherMobs
-[23Dec2024 17:56:39.886] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.breakanger.BreakAnger
-[23Dec2024 17:56:39.900] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.BitingMobs
-[23Dec2024 17:56:39.903] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.avoidexplosions.AvoidExplosions
-[23Dec2024 17:56:39.905] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.avoidexplosion.AvoidExplosions
-[23Dec2024 17:56:39.915] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.anticheese.AntiCheese
-[23Dec2024 17:56:39.918] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.illager.shoot.PillagerShoot
-[23Dec2024 17:56:39.921] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.illager.RavagerFeature
-[23Dec2024 17:56:39.925] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.illager.PillagerFleeTarget
-[23Dec2024 17:56:39.927] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.ghast.GhastShoot
-[23Dec2024 17:56:39.929] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.enderman.getoverhere.GetOverHere
-[23Dec2024 17:56:39.950] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.drowned.DrownedSwimming
-[23Dec2024 17:56:39.964] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.creeper.CreeperSwell
-[23Dec2024 17:56:39.976] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.bugs.silverfish.SilverfishFeature
-[23Dec2024 17:56:39.982] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.blaze.BlazeAttack
-[23Dec2024 17:56:40.001] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.animal.NotTemptedAnimals
-[23Dec2024 17:56:40.004] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.animal.AnimalsGroupFlee
-[23Dec2024 17:56:40.007] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.animal.AnimalScaredAttack
-[23Dec2024 17:56:45.584] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[23Dec2024 17:56:46.031] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.0 Target: 5.10.3
-[23Dec2024 17:56:46.034] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[23Dec2024 17:56:46.215] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.9 Target: 1.9.12
-[23Dec2024 17:56:46.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Starting version check at https://raw.githubusercontent.com/nonamecrackers2/cwsm-update-info/main/update_checker.json
-[23Dec2024 17:56:46.281] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Found status: OUTDATED Current: 4.1 Target: 4.2.1
-[23Dec2024 17:56:46.281] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[23Dec2024 17:56:46.295] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.7 Target: 8.8.6
-[23Dec2024 17:56:46.295] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [multiverse] Starting version check at https://raw.githubusercontent.com/DavidQF555/Multiverse/update/update.json
-[23Dec2024 17:56:46.317] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [multiverse] Found status: OUTDATED Current: 1.20.1-2.3.4 Target: 1.20.1-3.0.3
-[23Dec2024 17:56:46.317] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[23Dec2024 17:56:46.336] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.17 Target: 8.1.25
-[23Dec2024 17:56:46.337] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[23Dec2024 17:56:46.355] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[23Dec2024 17:56:46.356] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[23Dec2024 17:56:46.489] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[23Dec2024 17:56:46.490] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
-[23Dec2024 17:56:46.501] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: OUTDATED Current: 8.0.2 Target: 8.0.3
-[23Dec2024 17:56:51.092] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[23Dec2024 17:56:51.093] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[23Dec2024 17:56:51.093] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[23Dec2024 17:56:51.093] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[23Dec2024 17:56:51.093] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[23Dec2024 17:56:51.093] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[23Dec2024 17:56:51.094] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[23Dec2024 17:56:51.094] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
-[23Dec2024 17:56:51.094] [main/INFO] [journeymap/]: Initializing Packet Registries
-[23Dec2024 17:56:51.177] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[23Dec2024 17:56:51.281] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[23Dec2024 17:56:51.329] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[23Dec2024 17:56:51.338] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[23Dec2024 17:56:51.341] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
-[23Dec2024 17:56:51.344] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[23Dec2024 17:56:51.446] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.447] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.447] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.448] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.448] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.449] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.449] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.449] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.450] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.450] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.450] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.451] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.451] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.452] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.452] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.452] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.452] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.453] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.453] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.453] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.453] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.453] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.454] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.454] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.454] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.454] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.455] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.455] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.455] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.455] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.456] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.456] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.456] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.456] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.456] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.457] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.457] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.457] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.457] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.458] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.458] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.458] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.458] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.458] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.459] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.459] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.459] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.459] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.459] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.460] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:51.460] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:54.642] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23Dec2024 17:56:55.508] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.508] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.509] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.509] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.509] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.510] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.510] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.510] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.511] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.511] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.511] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.512] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.512] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.513] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.513] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.513] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.513] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.513] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.514] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.514] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.514] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.514] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.514] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.515] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.515] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.515] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.515] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.515] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.515] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.516] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.516] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.516] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.516] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.516] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.517] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.517] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.517] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.517] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.518] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.518] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.518] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.519] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.519] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.520] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.520] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.521] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.521] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.521] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.521] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.522] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.522] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.619] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.620] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.620] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.621] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.621] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.621] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.622] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.622] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.622] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.623] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.623] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.623] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.624] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.624] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.625] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.625] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.625] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.626] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.626] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.626] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.627] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.627] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.627] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.628] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.628] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.629] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.629] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.629] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.630] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.630] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.630] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.631] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.631] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.632] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.632] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.632] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.633] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.634] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.634] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.635] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.635] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.635] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.635] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.636] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.636] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.636] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.637] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.637] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.637] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.637] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:55.640] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
-[23Dec2024 17:56:57.714] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/assets/.mcassetsroot' uses unexpected schema
-[23Dec2024 17:56:57.717] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/data/.mcassetsroot' uses unexpected schema
-[23Dec2024 17:57:01.086] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 13 recipes
-[23Dec2024 17:57:01.333] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2898 advancements
-[23Dec2024 17:57:01.363] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
-[23Dec2024 17:57:01.369] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[23Dec2024 17:57:01.407] [main/INFO] [insane96mcp.insanelib.InsaneLib/]: Reloading InsaneLib JsonFeature Json
-[23Dec2024 17:57:03.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[23Dec2024 17:57:03.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[23Dec2024 17:57:03.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[23Dec2024 17:57:03.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[23Dec2024 17:57:03.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[23Dec2024 17:57:03.642] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[23Dec2024 17:57:03.732] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23Dec2024 17:57:03.732] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[23Dec2024 17:57:03.733] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23Dec2024 17:57:03.733] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[23Dec2024 17:57:03.756] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[23Dec2024 17:57:03.790] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
-[23Dec2024 17:57:03.792] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
-[23Dec2024 17:57:03.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[23Dec2024 17:57:15.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[23Dec2024 17:57:19.242] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 17:57:19.243] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 17:57:19.244] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 17:57:19.245] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 17:57:19.245] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 17:57:19.246] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 17:57:19.246] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 17:57:19.247] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 17:57:19.275] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 17:57:20.927] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[23Dec2024 17:57:20.928] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[23Dec2024 17:57:20.929] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[23Dec2024 17:57:21.415] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[23Dec2024 17:57:22.662] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
-[23Dec2024 17:57:22.663] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
-[23Dec2024 17:57:23.702] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
-[23Dec2024 17:57:23.704] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
-[23Dec2024 17:57:23.772] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
-[23Dec2024 17:57:25.126] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
-[23Dec2024 17:57:25.130] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
-[23Dec2024 17:57:26.219] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 41%
-[23Dec2024 17:57:26.220] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 41%
-[23Dec2024 17:57:26.277] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
-[23Dec2024 17:57:26.775] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
-[23Dec2024 17:57:27.821] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
-[23Dec2024 17:57:27.822] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
-[23Dec2024 17:57:28.894] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
-[23Dec2024 17:57:28.895] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
-[23Dec2024 17:57:29.273] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
-[23Dec2024 17:57:30.113] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 82%
-[23Dec2024 17:57:30.290] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 97%
-[23Dec2024 17:57:30.783] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 99%
-[23Dec2024 17:57:30.804] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 15533 ms
-[23Dec2024 17:57:30.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (27.059s)! For help, type "help"
-[23Dec2024 17:57:30.877] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[23Dec2024 17:57:30.917] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[23Dec2024 17:57:30.918] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[23Dec2024 18:00:49.652] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJForever1764[/127.52.43.104:44419] logged in with entity id 814 at (3.0966358356534713, 74.0, -9.678133396371125)
-[23Dec2024 18:00:49.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 joined the game
-[23Dec2024 18:00:49.929] [Server thread/INFO] [Jade/]: Syncing config to JJForever1764 (d78476c0-7c01-3ae6-ba37-28d19ce982b9)
-[23Dec2024 18:01:26.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Isn't It Iron Pick]
-[23Dec2024 18:01:32.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Getting an Upgrade]
-[23Dec2024 18:02:47.569] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
-[23Dec2024 18:02:47.571] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
-[23Dec2024 18:02:48.923] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 2170 ms
-[23Dec2024 18:02:48.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2140ms or 42 ticks behind
-[23Dec2024 18:03:05.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Teleported JJForever1764 to -1023.500000, 65.000000, -1055.500000]
-[23Dec2024 18:03:06.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
-[23Dec2024 18:03:58.627] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-917, y=24, z=-1266} but found not block entity block Block{minecraft:water}[level=8] at location
-[23Dec2024 18:03:58.629] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-917, y=24, z=-1266}
-[23Dec2024 18:03:58.629] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-917, y=27, z=-1267} but found not block entity block Block{minecraft:water}[level=8] at location
-[23Dec2024 18:03:58.630] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-917, y=27, z=-1267}
-[23Dec2024 18:03:58.633] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-918, y=27, z=-1267} but found not block entity block Block{minecraft:water}[level=0] at location
-[23Dec2024 18:03:58.633] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-918, y=27, z=-1267}
-[23Dec2024 18:03:58.633] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-917, y=27, z=-1268} but found not block entity block Block{minecraft:water}[level=0] at location
-[23Dec2024 18:03:58.633] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-917, y=27, z=-1268}
-[23Dec2024 18:03:58.633] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-916, y=27, z=-1269} but found not block entity block Block{minecraft:water}[level=0] at location
-[23Dec2024 18:03:58.634] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-916, y=27, z=-1269}
-[23Dec2024 18:03:58.634] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-917, y=25, z=-1267} but found not block entity block Block{minecraft:water}[level=0] at location
-[23Dec2024 18:03:58.634] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-917, y=25, z=-1267}
-[23Dec2024 18:03:58.635] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-918, y=29, z=-1268} but found not block entity block Block{minecraft:water}[level=0] at location
-[23Dec2024 18:03:58.635] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-918, y=29, z=-1268}
-[23Dec2024 18:03:58.635] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-917, y=29, z=-1269} but found not block entity block Block{minecraft:water}[level=8] at location
-[23Dec2024 18:03:58.636] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-917, y=29, z=-1269}
-[23Dec2024 18:03:58.636] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-917, y=29, z=-1270} but found not block entity block Block{minecraft:water}[level=8] at location
-[23Dec2024 18:03:58.636] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-917, y=29, z=-1270}
-[23Dec2024 18:03:58.636] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-916, y=29, z=-1271} but found not block entity block Block{minecraft:water}[level=0] at location
-[23Dec2024 18:03:58.637] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-916, y=29, z=-1271}
-[23Dec2024 18:03:58.637] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-917, y=27, z=-1269} but found not block entity block Block{minecraft:water}[level=0] at location
-[23Dec2024 18:03:58.637] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-917, y=27, z=-1269}
-[23Dec2024 18:03:58.638] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-916, y=27, z=-1270} but found not block entity block Block{minecraft:water}[level=0] at location
-[23Dec2024 18:03:58.638] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-916, y=27, z=-1270}
-[23Dec2024 18:03:58.639] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-917, y=31, z=-1271} but found not block entity block Block{minecraft:water}[level=8] at location
-[23Dec2024 18:03:58.639] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-917, y=31, z=-1271}
-[23Dec2024 18:03:58.640] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-918, y=31, z=-1271} but found not block entity block Block{minecraft:water}[level=0] at location
-[23Dec2024 18:03:58.640] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-918, y=31, z=-1271}
-[23Dec2024 18:03:58.640] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-917, y=31, z=-1272} but found not block entity block Block{minecraft:water}[level=0] at location
-[23Dec2024 18:03:58.640] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-917, y=31, z=-1272}
-[23Dec2024 18:03:58.641] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-917, y=29, z=-1271} but found not block entity block Block{minecraft:water}[level=0] at location
-[23Dec2024 18:03:58.641] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-917, y=29, z=-1271}
-[23Dec2024 18:03:58.641] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-917, y=33, z=-1273} but found not block entity block Block{minecraft:water}[level=0] at location
-[23Dec2024 18:03:58.642] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-917, y=33, z=-1273}
-[23Dec2024 18:03:58.642] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-917, y=25, z=-1266} but found not block entity block Block{minecraft:water}[level=8] at location
-[23Dec2024 18:03:58.644] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-917, y=25, z=-1266}
-[23Dec2024 18:03:58.646] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-916, y=25, z=-1267} but found not block entity block Block{minecraft:water}[level=0] at location
-[23Dec2024 18:03:58.646] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-916, y=25, z=-1267}
-[23Dec2024 18:03:58.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-917, y=26, z=-1268} but found not block entity block Block{minecraft:water}[level=0] at location
-[23Dec2024 18:03:58.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-917, y=26, z=-1268}
-[23Dec2024 18:03:58.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-917, y=26, z=-1267} but found not block entity block Block{minecraft:water}[level=8] at location
-[23Dec2024 18:03:58.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-917, y=26, z=-1267}
-[23Dec2024 18:03:58.648] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-916, y=26, z=-1268} but found not block entity block Block{minecraft:water}[level=0] at location
-[23Dec2024 18:03:58.648] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-916, y=26, z=-1268}
-[23Dec2024 18:03:58.648] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-917, y=28, z=-1270} but found not block entity block Block{minecraft:water}[level=0] at location
-[23Dec2024 18:03:58.648] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-917, y=28, z=-1270}
-[23Dec2024 18:03:58.649] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-917, y=28, z=-1268} but found not block entity block Block{minecraft:water}[level=8] at location
-[23Dec2024 18:03:58.649] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-917, y=28, z=-1268}
-[23Dec2024 18:03:58.649] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-918, y=28, z=-1268} but found not block entity block Block{minecraft:water}[level=0] at location
-[23Dec2024 18:03:58.650] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-918, y=28, z=-1268}
-[23Dec2024 18:03:58.650] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-917, y=28, z=-1269} but found not block entity block Block{minecraft:water}[level=8] at location
-[23Dec2024 18:03:58.650] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-917, y=28, z=-1269}
-[23Dec2024 18:03:58.651] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-916, y=28, z=-1270} but found not block entity block Block{minecraft:water}[level=0] at location
-[23Dec2024 18:03:58.651] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-916, y=28, z=-1270}
-[23Dec2024 18:03:58.651] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-917, y=30, z=-1270} but found not block entity block Block{minecraft:water}[level=8] at location
-[23Dec2024 18:03:58.651] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-917, y=30, z=-1270}
-[23Dec2024 18:03:58.652] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-917, y=30, z=-1271} but found not block entity block Block{minecraft:water}[level=8] at location
-[23Dec2024 18:03:58.654] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-917, y=30, z=-1271}
-[23Dec2024 18:03:58.655] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-917, y=32, z=-1272} but found not block entity block Block{minecraft:water}[level=0] at location
-[23Dec2024 18:03:58.655] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-917, y=32, z=-1272}
-[23Dec2024 18:03:58.655] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-917, y=32, z=-1273} but found not block entity block Block{minecraft:water}[level=0] at location
-[23Dec2024 18:03:58.656] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-917, y=32, z=-1273}
-[23Dec2024 18:05:32.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Stone Age]
-[23Dec2024 18:05:48.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [What a Deal!]
-[23Dec2024 18:07:17.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
-[23Dec2024 18:07:20.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
-[23Dec2024 18:10:00.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Ambush]
-[23Dec2024 18:10:20.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Voluntary Exile]
-[23Dec2024 18:11:37.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Tools of the Trade]
-[23Dec2024 18:13:04.820] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/2311, l='ServerLevel[world]', x=-936.71, y=71.78, z=-815.51]
-[23Dec2024 18:13:04.821] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/2312, l='ServerLevel[world]', x=-936.42, y=72.32, z=-815.43]
-[23Dec2024 18:13:04.823] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/2315, l='ServerLevel[world]', x=-938.98, y=72.20, z=-815.73]
-[23Dec2024 18:13:04.823] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/2316, l='ServerLevel[world]', x=-939.94, y=71.63, z=-814.87]
-[23Dec2024 18:13:04.824] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/2317, l='ServerLevel[world]', x=-935.84, y=72.48, z=-814.06]
-[23Dec2024 18:13:04.824] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/2318, l='ServerLevel[world]', x=-935.66, y=72.06, z=-812.93]
-[23Dec2024 18:13:04.825] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/2319, l='ServerLevel[world]', x=-935.51, y=71.77, z=-811.95]
-[23Dec2024 18:13:04.825] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/2320, l='ServerLevel[world]', x=-935.31, y=71.49, z=-810.68]
-[23Dec2024 18:13:41.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Dragonslayer]
-[23Dec2024 18:15:04.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
-[23Dec2024 18:15:07.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
-[23Dec2024 18:17:48.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has reached the goal [Fortuitous Militia]
-[23Dec2024 18:26:18.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
-[23Dec2024 18:26:27.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
-[23Dec2024 18:26:52.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has completed the challenge [Hero of the Village]
-[23Dec2024 18:32:06.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Acquire Hardware]
-[23Dec2024 18:34:05.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Hot Stuff]
-[23Dec2024 18:34:30.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Cover Me with Diamonds]
-[23Dec2024 18:42:22.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [A Strange Grave Dust]
-[23Dec2024 18:44:33.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Who You Gonna Call?]
+[24Dec2024 14:47:48.286] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[24Dec2024 14:47:54.038] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on witherstormmod.mixins.json:MixinSwellGoal::handler$zfh000$canUseInvoke exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[24Dec2024 14:47:55.818] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.TagsFeature
+[24Dec2024 14:47:55.854] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.FixFeature
+[24Dec2024 14:47:55.856] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.BaseFeature
+[24Dec2024 14:47:55.860] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.insanelib.module.base.AEC3DFeature
+[24Dec2024 14:47:56.877] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[24Dec2024 14:47:56.949] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.WitchFleeTarget
+[24Dec2024 14:47:56.952] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.throwing.WitchPotionThrowing
+[24Dec2024 14:47:56.960] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.ThirstyWitches
+[24Dec2024 14:47:56.960] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.witch.darkart.DarkArtWitch
+[24Dec2024 14:47:56.963] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.warden.Warden
+[24Dec2024 14:47:56.964] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.villager.VillagerAttacking
+[24Dec2024 14:47:56.972] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.spider.webber.ThrowingWeb
+[24Dec2024 14:47:56.975] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.spider.Misc
+[24Dec2024 14:47:56.979] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.slime.Slimes
+[24Dec2024 14:47:56.980] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.WitherSkeletons
+[24Dec2024 14:47:56.981] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.SkeletonFleeTarget
+[24Dec2024 14:47:56.982] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.skeleton.shoot.SkeletonShoot
+[24Dec2024 14:47:56.984] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.shulker.ShulkerBullets
+[24Dec2024 14:47:56.991] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.shulker.shulkerattack.ShulkerAttack
+[24Dec2024 14:47:56.993] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.shulker.ShulkerArmor
+[24Dec2024 14:47:56.994] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.pets.Wolves
+[24Dec2024 14:47:56.995] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.pets.snowgolem.SnowGolems
+[24Dec2024 14:47:57.002] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[24Dec2024 14:47:57.002] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.pets.IronGolems
+[24Dec2024 14:47:57.004] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
+[24Dec2024 14:47:57.005] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[24Dec2024 14:47:57.007] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.WardenInteractions
+[24Dec2024 14:47:57.024] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.targeting.Targeting
+[24Dec2024 14:47:57.045] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.Spawning
+[24Dec2024 14:47:57.053] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.riding.Riding
+[24Dec2024 14:47:57.055] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.pearler.PearlerMobs
+[24Dec2024 14:47:57.058] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.OpenDoors
+[24Dec2024 14:47:57.060] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.movement.Movement
+[24Dec2024 14:47:57.062] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.miner.MinerMobs
+[24Dec2024 14:47:57.064] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.MeleeAttacking
+[24Dec2024 14:47:57.065] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.leap.Leap
+[24Dec2024 14:47:57.067] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.ItemDisruption
+[24Dec2024 14:47:57.068] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.flee.Flee
+[24Dec2024 14:47:57.071] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.fisher.FisherMobs
+[24Dec2024 14:47:57.073] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.breakanger.BreakAnger
+[24Dec2024 14:47:57.076] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.BitingMobs
+[24Dec2024 14:47:57.078] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.avoidexplosions.AvoidExplosions
+[24Dec2024 14:47:57.083] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.avoidexplosion.AvoidExplosions
+[24Dec2024 14:47:57.093] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.mobs.anticheese.AntiCheese
+[24Dec2024 14:47:57.096] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.illager.shoot.PillagerShoot
+[24Dec2024 14:47:57.101] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.illager.RavagerFeature
+[24Dec2024 14:47:57.102] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.illager.PillagerFleeTarget
+[24Dec2024 14:47:57.104] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.ghast.GhastShoot
+[24Dec2024 14:47:57.108] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.enderman.getoverhere.GetOverHere
+[24Dec2024 14:47:57.110] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.drowned.DrownedSwimming
+[24Dec2024 14:47:57.114] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.creeper.CreeperSwell
+[24Dec2024 14:47:57.147] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.bugs.silverfish.SilverfishFeature
+[24Dec2024 14:47:57.157] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.blaze.BlazeAttack
+[24Dec2024 14:47:57.160] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.animal.NotTemptedAnimals
+[24Dec2024 14:47:57.162] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.animal.AnimalsGroupFlee
+[24Dec2024 14:47:57.164] [modloading-worker-0/INFO] [insane96mcp.insanelib.InsaneLib/]: Found (COMMON) InsaneLib Feature class insane96mcp.enhancedai.modules.animal.AnimalScaredAttack
+[24Dec2024 14:48:00.029] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/MSX/servidor_minecraft/config/enhancedai/common.toml is not correct. Correcting
+[24Dec2024 14:48:00.903] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[24Dec2024 14:48:01.194] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.0 Target: 5.10.3
+[24Dec2024 14:48:01.194] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[24Dec2024 14:48:01.389] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.9 Target: 1.9.12
+[24Dec2024 14:48:01.391] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Starting version check at https://raw.githubusercontent.com/nonamecrackers2/cwsm-update-info/main/update_checker.json
+[24Dec2024 14:48:01.413] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Found status: OUTDATED Current: 4.1 Target: 4.2.1
+[24Dec2024 14:48:01.413] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[24Dec2024 14:48:01.424] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.7 Target: 8.8.6
+[24Dec2024 14:48:01.425] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [multiverse] Starting version check at https://raw.githubusercontent.com/DavidQF555/Multiverse/update/update.json
+[24Dec2024 14:48:01.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [multiverse] Found status: OUTDATED Current: 1.20.1-2.3.4 Target: 1.20.1-3.0.3
+[24Dec2024 14:48:01.480] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[24Dec2024 14:48:01.490] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.17 Target: 8.1.25
+[24Dec2024 14:48:01.491] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[24Dec2024 14:48:01.500] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[24Dec2024 14:48:01.500] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24Dec2024 14:48:01.647] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[24Dec2024 14:48:01.647] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[24Dec2024 14:48:01.657] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: OUTDATED Current: 8.0.2 Target: 8.0.3
+[24Dec2024 14:48:04.660] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[24Dec2024 14:48:04.660] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[24Dec2024 14:48:04.660] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[24Dec2024 14:48:04.660] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[24Dec2024 14:48:04.661] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[24Dec2024 14:48:04.661] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[24Dec2024 14:48:04.661] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[24Dec2024 14:48:04.661] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
+[24Dec2024 14:48:04.667] [main/INFO] [journeymap/]: Initializing Packet Registries
+[24Dec2024 14:48:04.725] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[24Dec2024 14:48:04.776] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[24Dec2024 14:48:04.795] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[24Dec2024 14:48:04.799] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[24Dec2024 14:48:04.802] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.JadeDataProvider
+[24Dec2024 14:48:04.804] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[24Dec2024 14:48:04.872] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.873] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.873] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.873] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.874] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.874] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.874] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.875] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.875] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.875] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.876] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.876] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.876] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.876] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.877] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.877] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.877] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.878] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.878] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.878] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.879] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.879] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.879] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.879] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.880] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.880] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.880] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.880] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.881] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.881] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.881] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.881] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.882] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.882] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.882] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.882] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.883] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.883] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.883] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.884] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.884] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.884] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.884] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.885] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.885] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.885] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.885] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.886] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.886] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.886] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:04.886] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.274] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24Dec2024 14:48:07.932] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.932] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.933] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.933] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.933] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.933] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.934] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.934] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.934] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.934] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.935] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.935] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.935] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.935] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.935] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.936] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.936] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.936] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.936] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.937] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.937] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.937] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.937] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.937] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.938] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.938] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.938] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.938] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.938] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.939] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.939] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.939] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.939] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.939] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.940] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.940] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.940] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.940] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.940] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.941] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.941] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.941] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.941] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.941] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.941] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.942] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.942] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.942] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.942] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.942] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:07.943] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.050] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.052] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.053] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.054] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.054] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.054] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.054] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.054] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.055] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.055] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.055] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.055] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.056] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.056] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.056] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.056] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.058] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.059] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.059] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.059] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.059] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.060] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.063] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.063] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.063] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.064] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.065] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.065] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.066] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.066] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.066] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.066] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.068] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.069] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.069] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.069] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.069] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.070] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.070] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.070] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.071] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.072] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.073] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.073] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.073] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.074] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.075] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.075] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.076] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.077] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:08.077] [main/ERROR] [net.minecraft.Util/]: Entity irons_spellbooks:catacombs_skeleton_horse has no attributes
+[24Dec2024 14:48:09.619] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/assets/.mcassetsroot' uses unexpected schema
+[24Dec2024 14:48:09.620] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSX/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/data/.mcassetsroot' uses unexpected schema
+[24Dec2024 14:48:11.802] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 13 recipes
+[24Dec2024 14:48:11.913] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2898 advancements
+[24Dec2024 14:48:11.920] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
+[24Dec2024 14:48:11.925] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[24Dec2024 14:48:11.941] [main/INFO] [insane96mcp.insanelib.InsaneLib/]: Reloading InsaneLib JsonFeature Json
+[24Dec2024 14:48:13.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[24Dec2024 14:48:13.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24Dec2024 14:48:13.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24Dec2024 14:48:13.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24Dec2024 14:48:13.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24Dec2024 14:48:13.591] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[24Dec2024 14:48:13.660] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24Dec2024 14:48:13.660] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24Dec2024 14:48:13.660] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24Dec2024 14:48:13.661] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24Dec2024 14:48:13.679] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[24Dec2024 14:48:13.680] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[24Dec2024 14:48:13.712] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[24Dec2024 14:48:13.714] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
+[24Dec2024 14:48:13.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24Dec2024 14:48:23.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24Dec2024 14:48:27.003] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 14:48:27.073] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 14:48:27.077] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 14:48:27.083] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 14:48:27.095] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 14:48:27.106] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 14:48:27.120] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 14:48:27.401] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 14:48:27.879] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 14:48:28.379] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
+[24Dec2024 14:48:28.775] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4897 ms
+[24Dec2024 14:48:28.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.103s)! For help, type "help"
+[24Dec2024 14:48:28.815] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[24Dec2024 14:48:28.864] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[24Dec2024 14:48:28.865] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[24Dec2024 14:48:44.242] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJForever1764[/127.52.43.104:43911] logged in with entity id 687 at (-1023.4399167074993, 63.0, -1074.3474135369952)
+[24Dec2024 14:48:44.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 joined the game
+[24Dec2024 14:48:44.436] [Server thread/INFO] [Jade/]: Syncing config to JJForever1764 (d78476c0-7c01-3ae6-ba37-28d19ce982b9)
+[24Dec2024 14:48:44.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Mysterious Gift]
+[24Dec2024 14:48:47.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3194ms or 63 ticks behind
+[24Dec2024 14:49:57.369] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/797, l='ServerLevel[world]', x=-1027.72, y=62.59, z=-1047.00] died, message: 'Mason was slain by Drowned'
+[24Dec2024 14:56:30.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Surge Protector]
