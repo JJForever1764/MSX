@@ -40,6 +40,7 @@
       "minecraft:beach": "2024-12-23 18:05:10 +0000",
       "minecraft:river": "2024-12-23 18:02:32 +0000",
       "minecraft:forest": "2024-12-23 18:20:11 +0000",
+      "minecraft:lush_caves": "2024-12-25 22:59:03 +0000",
       "minecraft:savanna": "2024-12-20 19:45:54 +0000",
       "minecraft:plains": "2024-12-23 18:03:05 +0000"
     },
@@ -1543,6 +1544,12 @@
     },
     "done": true
   },
+  "witherstormmod:recipes/food/golden_apple_stew": {
+    "criteria": {
+      "has_golden_apple": "2024-12-25 22:44:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-25 22:31:14 +0000"
@@ -1552,6 +1559,12 @@
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2024-12-25 22:31:18 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2024-12-25 23:03:43 +0000"
     },
     "done": true
   },
@@ -1603,9 +1616,24 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "shirt": "2024-12-25 22:59:20 +0000",
+      "pants": "2024-12-25 22:59:22 +0000",
+      "helmet": "2024-12-25 22:59:18 +0000",
+      "boots": "2024-12-25 22:59:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-25 22:31:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2024-12-25 22:58:17 +0000"
     },
     "done": true
   },
@@ -1624,6 +1652,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2024-12-25 22:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-25 22:47:45 +0000"
     },
     "done": true
   },
@@ -1681,6 +1715,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:turtle": "2024-12-25 22:47:45 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-25 22:52:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2024-12-25 22:31:14 +0000"
@@ -1699,9 +1745,21 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2024-12-25 22:49:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2024-12-25 22:31:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2024-12-25 22:59:36 +0000"
     },
     "done": true
   },
@@ -1747,9 +1805,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2024-12-25 22:58:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-25 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2024-12-25 23:00:52 +0000"
     },
     "done": true
   },
