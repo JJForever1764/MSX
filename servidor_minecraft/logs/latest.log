@@ -346,3 +346,5 @@
 [25Dec2024 22:32:29.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has completed the challenge [It's Purple!]
 [25Dec2024 22:33:31.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has reached the goal [Bone Crusher]
 [25Dec2024 22:37:21.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Enchanter]
+[25Dec2024 22:44:07.402] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/3537, l='ServerLevel[world]', x=-1009.20, y=64.13, z=-1056.62] died, message: 'Librarian was slain by Zombie'
+[25Dec2024 22:47:45.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [The Parrots and the Bats]
