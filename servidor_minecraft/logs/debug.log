@@ -3443,3 +3443,19 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [25Dec2024 23:07:28.087] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
 [25Dec2024 23:07:28.088] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
 [25Dec2024 23:07:59.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Rust-eze!]
+[25Dec2024 23:09:31.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 23:09:31.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 23:10:23.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has reached the goal [Shelf Life]
+[25Dec2024 23:12:24.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[25Dec2024 23:12:43.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[25Dec2024 23:14:08.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[25Dec2024 23:14:14.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[25Dec2024 23:14:31.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 23:14:31.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 23:15:04.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Spectator Mode]
+[25Dec2024 23:15:05.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[25Dec2024 23:15:07.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Smelly Situation]
+[25Dec2024 23:15:26.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]
+[25Dec2024 23:17:46.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Survival Mode]
+[25Dec2024 23:17:57.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJForever1764 has made the advancement [Not Today, Thank You]
+[25Dec2024 23:18:26.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JJForever1764: Set own game mode to Creative Mode]

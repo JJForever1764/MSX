@@ -41,6 +41,7 @@
       "minecraft:river": "2024-12-23 18:02:32 +0000",
       "minecraft:forest": "2024-12-23 18:20:11 +0000",
       "minecraft:lush_caves": "2024-12-25 22:59:03 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-25 23:14:12 +0000",
       "minecraft:savanna": "2024-12-20 19:45:54 +0000",
       "minecraft:plains": "2024-12-23 18:03:05 +0000"
     },
@@ -1441,6 +1442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-25 23:11:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-25 22:22:52 +0000"
@@ -1604,6 +1611,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-25 23:11:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-25 23:09:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-25 22:22:52 +0000"
@@ -1622,6 +1641,12 @@
       "pants": "2024-12-25 22:59:22 +0000",
       "helmet": "2024-12-25 22:59:18 +0000",
       "boots": "2024-12-25 22:59:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-25 23:11:54 +0000"
     },
     "done": true
   },
@@ -1691,6 +1716,14 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/eat_radiation_foods": {
+    "criteria": {
+      "slam": "2024-12-25 23:10:09 +0000",
+      "green_soylent": "2024-12-25 23:10:23 +0000",
+      "spelunkie": "2024-12-25 23:09:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-25 22:31:14 +0000"
@@ -1754,6 +1787,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2024-12-25 22:31:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/acid_create_rust": {
+    "criteria": {
+      "rust": "2024-12-25 23:07:59 +0000"
     },
     "done": true
   },
