@@ -42,6 +42,7 @@
       "minecraft:forest": "2024-12-23 18:20:11 +0000",
       "minecraft:lush_caves": "2024-12-25 22:59:03 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-25 23:14:12 +0000",
+      "minecraft:deep_dark": "2024-12-25 23:19:22 +0000",
       "minecraft:savanna": "2024-12-20 19:45:54 +0000",
       "minecraft:plains": "2024-12-23 18:03:05 +0000"
     },
@@ -1448,9 +1449,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2024-12-25 23:22:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-25 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-25 23:17:57 +0000"
     },
     "done": true
   },
@@ -1512,6 +1525,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2024-12-25 22:31:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/summon_luxtructosaurus": {
+    "criteria": {
+      "summon_luxtructosaurus": "2024-12-25 23:24:07 +0000"
     },
     "done": true
   },
@@ -1578,6 +1597,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-12-25 22:27:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ominous_catalyst": {
+    "criteria": {
+      "nuclear_bomb": "2024-12-25 23:23:17 +0000"
     },
     "done": true
   },
@@ -1650,6 +1675,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-25 23:21:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-25 22:31:14 +0000"
@@ -1716,6 +1747,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-12-25 23:19:18 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/eat_radiation_foods": {
     "criteria": {
       "slam": "2024-12-25 23:10:09 +0000",
@@ -1760,15 +1797,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-25 23:21:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2024-12-25 22:31:14 +0000"
     },
     "done": true
   },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2024-12-25 23:15:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-25 22:22:52 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2024-12-25 23:19:46 +0000"
     },
     "done": true
   },
@@ -1838,6 +1893,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-25 23:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-25 23:21:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-25 22:31:14 +0000"
@@ -1877,6 +1944,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-12-25 22:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-25 23:21:33 +0000"
     },
     "done": true
   },
